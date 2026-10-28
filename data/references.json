@@ -1,0 +1,1453 @@
+[
+  {
+    "id": "anthropic-claude-scorpion-toxin-binder-design",
+    "company": "anthropic",
+    "title": "How Claude designed protein binders against scorpion neurotoxins",
+    "date": "2026-10-20",
+    "sourceUrl": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/43aa58c53210dbeba086649403b628e492145578-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "Sepia geology and laboratory photography meet an electric-blue key and a scorpion drawing; the shared grain connects three visual registers.",
+    "alt": "Sepia rock formations with a blue key, a scorpion drawing on blue graph paper, and monochrome laboratory photography.",
+    "localPath": "assets/originals/7452ce622cc4f4a9.jpg"
+  },
+  {
+    "id": "anthropic-early-progress-drug-development",
+    "company": "anthropic",
+    "title": "Early progress on accelerating drug development with Claude",
+    "date": "2026-10-27",
+    "sourceUrl": "https://www.anthropic.com/research/early-progress-drug-development",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/492ae2fdf955e71a24bfda5422f950febeeec07f-2000x1125.jpg",
+    "localPath": "dist/assets/originals/c3aae68f9e261dee.jpg",
+    "type": "Photo + graphic",
+    "alt": "White paper discs across green ledger paper and pale halftone texture beside orange discs over monochrome laboratory photography.",
+    "note": "Repeated paper discs drift from green ledger lines into an archival laboratory image. White and coral groups establish a measured rhythm while halftone texture connects the graphic field to the photograph.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-alignment-assessment-ukaisi",
+    "company": "anthropic",
+    "title": "An alignment assessment of the UK AISI cybertesting incident",
+    "date": "2026-10-23",
+    "sourceUrl": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/97d61b79f99af31d2596eced7533e6d5e3ef7731-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "A blue locomotive photograph is held against coral graph paper and a wandering charcoal line; the unequal split gives machinery and gesture different weights.",
+    "alt": "Blue locomotive photograph beside coral graph paper with looping black lines.",
+    "localPath": "assets/originals/4fa40f90b5febcef.jpg"
+  },
+  {
+    "id": "anthropic-an-update-on-independent-evaluators",
+    "company": "anthropic",
+    "title": "Anthropic update on independent evaluators",
+    "date": "2026-10-15",
+    "sourceUrl": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/c2af6aeedb4995d202c7543f3d59c6bbbd5352f1-2000x1125.jpg",
+    "alt": "Two blue circular technical diagrams meet black concentric arcs on cream marbled paper with small blue and gold marks.",
+    "localPath": "dist/assets/originals/6888ffc20c7ce09a.jpg",
+    "note": "The composition shifts from precise circular drafting to fluid marbling. Shared blue accents tie the halves together, while black arcs give the pale paper a strong graphic rhythm.",
+    "type": "Photo + graphic",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ],
+    "provenance": "Original full image linked in the official Anthropic page HTML. Complete composition retained. Publication date verified from the article’s time element or article:published_time metadata."
+  },
+  {
+    "id": "anthropic-expectations-for-the-future",
+    "company": "anthropic",
+    "title": "Working at the frontier shapes expectations for the future",
+    "date": "2026-10-16",
+    "sourceUrl": "https://www.anthropic.com/research/expectations-for-the-future",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/bb7d44b0b539fd7f179324bbb647b10c2d7bc833-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "A continuous ocean horizon crosses circular masks and inverted blue shapes; green fields and graph paper turn perspective into the compositional device.",
+    "alt": "Ocean photography masked into circles across green, blue, and graph-paper panels.",
+    "localPath": "assets/originals/c51652c95bd9b947.jpg"
+  },
+  {
+    "id": "anthropic-opus-5-5-launch-page",
+    "company": "anthropic",
+    "title": "Claude Opus 5.5 — cinematic launch page",
+    "date": "2026-09-22",
+    "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+    "imageUrl": null,
+    "type": "Website / editorial",
+    "note": "Page capture: a blue-to-orange horizon anchors a large serif title, while tactile photographic strips frame the central image. Cinematic scale meets the order of an editorial contents page.",
+    "alt": "Anthropic launch page with a sunset horizon, white serif title, paper collage edges, and numbered contents.",
+    "localPath": "assets/originals/f66cf9e815d9f3b8.jpg"
+  },
+  {
+    "id": "anthropic-economic-futures-research-fund-agenda",
+    "company": "anthropic",
+    "title": "Economic Futures Research Fund agenda",
+    "date": "2026-07-22",
+    "sourceUrl": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/1dee16ed8ebe3e7bdf82ed8b4186373cf882827c-2000x1125.jpg",
+    "alt": "A brass balance scale stands on pale yellow graph paper beside red circular marks and a large black wave on blue.",
+    "localPath": "dist/assets/originals/ade06c0ed0c675ed.jpg",
+    "note": "The fine mechanical object is balanced against larger, simpler marks. Pale yellow leaves room for the brass detail; saturated red and blue provide a controlled change of scale and rhythm.",
+    "type": "Photo + graphic",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ],
+    "provenance": "Original full image linked in the official Anthropic page HTML. Complete composition retained. Publication date verified from the article’s time element or article:published_time metadata."
+  },
+  {
+    "id": "anthropic-designing-efficient-quantum-circuits",
+    "company": "anthropic",
+    "title": "Designing more efficient quantum circuits with Claude",
+    "date": "2026-10-16",
+    "sourceUrl": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/cc389d90b468ebc86011f6642099dfad9a4a757f-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "A green mechanical drawing, a yellow ruled-paper instrument, and an archival-looking control room form a precise three-part history of computation.",
+    "alt": "Green mechanical diagram, yellow instrument illustration, and a black-and-white control-room photograph.",
+    "localPath": "assets/originals/ccd5f16ee210cb4f.jpg"
+  },
+  {
+    "id": "anthropic-investigating-unintended-model-actions",
+    "company": "anthropic",
+    "title": "Investigating unintended model actions in our evaluations and internal use",
+    "date": "2026-10-09",
+    "sourceUrl": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f11d2325e688229de8a887ef7ece34f520ab7134-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "Ledger fragments, a redacted document, and a scientific image are arranged in strict vertical strips; one red disc punctuates the otherwise restrained palette.",
+    "alt": "Collage of ledgers, scientific imagery, numbered paper, and a red circular marker.",
+    "localPath": "assets/originals/79313015b27ac23a.jpg"
+  },
+  {
+    "id": "anthropic-anthropic-public-record",
+    "company": "anthropic",
+    "title": "Results from the first Anthropic Public Record",
+    "date": "2026-06-12",
+    "sourceUrl": "https://www.anthropic.com/research/anthropic-public-record",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d5a7bcc25c2d829930625aa836441383924d22a7-2000x1125.jpg",
+    "localPath": "dist/assets/originals/afcc6a2edda14061.jpg",
+    "type": "Photo + graphic",
+    "alt": "An X-ray of a hand beside a wooden mallet on pink and warm-toned archival photography of hands at work.",
+    "note": "An X-ray, a wooden mallet, and hands at work occupy unequal panels. The alternating medical, object, and documentary images connect human judgment to tactile tools through pink, charcoal, and ochre.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-claude-shaped-science",
+    "company": "anthropic",
+    "title": "Claude-shaped science",
+    "date": "2026-10-01",
+    "sourceUrl": "https://www.anthropic.com/research/claude-shaped-science",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/5dca367673e615ac7abbbdac9f44733d1f52638a-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "Repeated circular image samples contrast with a photographed calculator and luminous tickets; halftone and paper grain keep the bright color fields cohesive.",
+    "alt": "Green circles, a calculator on pink, neon tickets, and a blue industrial photograph.",
+    "localPath": "assets/originals/e62b8dc953f6800e.jpg"
+  },
+  {
+    "id": "anthropic-what-work-can-robots-do",
+    "company": "anthropic",
+    "title": "Can we predict the jobs robots will do?",
+    "date": "2026-09-30",
+    "sourceUrl": "https://www.anthropic.com/research/what-work-can-robots-do",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/c523800acb2cfb23b8c834b4268d5daef9eafce4-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "Scientific plotting, image fragments, and a radial instrument diagram are presented as one broad paper surface with generous negative space.",
+    "alt": "Scientific image strips and a circular instrument drawing on pale paper.",
+    "localPath": "assets/originals/791f63a7ac54cfa6.jpg"
+  },
+  {
+    "id": "anthropic-your-thoughts-on-ai",
+    "company": "anthropic",
+    "title": "What do you want from AI?",
+    "date": "2026-09-29",
+    "sourceUrl": "https://www.anthropic.com/research/your-thoughts-on-ai",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f11a2dcfffbb0f1e5913d794299b6857653413af-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "Loose hand-drawn curves on index cards and torn paper form a tactile composition; overlapping edges create depth without shadows or interface chrome.",
+    "alt": "Overlapping yellow, pink, and ruled index cards carrying drawn curves.",
+    "localPath": "assets/originals/01fe3983ff0ad79d.jpg"
+  },
+  {
+    "id": "anthropic-glasswing-initial-update",
+    "company": "anthropic",
+    "title": "Project Glasswing: An initial update",
+    "date": "2026-05-22",
+    "sourceUrl": "https://www.anthropic.com/news/glasswing-initial-update",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/9f76163fe710723283a55b9f60d5caca6697dffd-1920x1080.jpg",
+    "alt": "A circular translucent leaf-like network of fine white veins floats against a deep charcoal field.",
+    "localPath": "dist/assets/originals/f893d5b90bf023a6.jpg",
+    "note": "A single delicate network becomes the focal point through high contrast and abundant dark space. Its irregular radial structure and fine translucent lines offer a quieter, material-based alternative within the collection.",
+    "type": "Photo + graphic",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ],
+    "provenance": "Original full image linked in the official Anthropic page HTML. Complete composition retained. Publication date verified from the article’s time element or article:published_time metadata."
+  },
+  {
+    "id": "anthropic-opus-5-5-mushroom-gills",
+    "company": "anthropic",
+    "title": "Claude Opus 5.5 — mushroom gills",
+    "date": "2026-09-22",
+    "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/a06ccc910a8ee460345ff4f0c46d99a17af7f9bd-2560x1440.webp",
+    "type": "Cinematic",
+    "note": "A low band of orange mushroom gills rises out of near-black space. Raking light picks out the fine ridges; warm material detail and a large dark field give a small natural subject a cinematic scale.",
+    "alt": "An extreme close-up of orange mushroom gills lit along their upper edge against a deep black background.",
+    "tags": [
+      "cinematic",
+      "macro",
+      "mushroom",
+      "texture",
+      "raking light",
+      "natural materials"
+    ],
+    "localPath": "dist/assets/originals/d8390122f5f4abfc.webp"
+  },
+  {
+    "id": "anthropic-2028-ai-leadership",
+    "company": "anthropic",
+    "title": "2028: Two scenarios for global AI leadership",
+    "date": "2026-05-14",
+    "sourceUrl": "https://www.anthropic.com/news/2028-ai-leadership",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2b05397d1ceac19b70a820a61d27dca4a5fba2e0-1920x1080.jpg",
+    "alt": "Loose green and brown leaf specimens lie on pale textured blue beside a fresh green climbing stem on a solid sky-blue panel.",
+    "localPath": "dist/assets/originals/f5b292496830d0fa.jpg",
+    "note": "Two botanical states are set against different blues. Fine grain unifies the separate panels, while the loose leaves and climbing stem create a quiet comparison through shape and vitality.",
+    "type": "Photo + graphic",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ],
+    "provenance": "Original full image linked in the official Anthropic page HTML. Complete composition retained. Publication date verified from the article’s time element or article:published_time metadata."
+  },
+  {
+    "id": "anthropic-enabling-independent-research",
+    "company": "anthropic",
+    "title": "Enabling independent research on how people use Claude",
+    "date": "2026-08-26",
+    "sourceUrl": "https://www.anthropic.com/research/enabling-independent-research",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b17863daa603c4331eaf45ea2969e04f4a523a5f-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "Soft-focus equipment photography meets sharply ruled paper and loose ink curves; the boundary between physical machinery and interpretation becomes the central seam.",
+    "alt": "Laboratory equipment beside ruled paper carrying loose black curves.",
+    "localPath": "assets/originals/0c5484e2d16fcd72.jpg"
+  },
+  {
+    "id": "anthropic-anthropic-institute-agenda",
+    "company": "anthropic",
+    "title": "Focus areas for The Anthropic Institute",
+    "date": "2026-05-07",
+    "sourceUrl": "https://www.anthropic.com/news/anthropic-institute-agenda",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/70882016231824c19ed88d5443739d56eb79587f-2000x1125.jpg",
+    "alt": "A measured classical column drawing, four looping black lines on tan graph paper, and a cropped monochrome apartment facade form a three-part collage.",
+    "localPath": "dist/assets/originals/3920f5165e4c10be.jpg",
+    "note": "Measured architectural drawing and a repeated photographic facade share a structural rhythm. Graph paper and a loose black loop soften the geometry, with cream and buff paper holding the panels together.",
+    "type": "Photo + graphic",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ],
+    "provenance": "Original full image linked in the official Anthropic page HTML. Complete composition retained. Publication date verified from the article’s time element or article:published_time metadata."
+  },
+  {
+    "id": "anthropic-reviewing-the-evidence-on-worker-retraining-programs",
+    "company": "anthropic",
+    "title": "How well do job retraining programs work?",
+    "date": "2026-08-12",
+    "sourceUrl": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/46eef84db666a74a4013b4652d44cec7c46a3016-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "Two familiar tools are fused into an impossible object; a photographic metal surface is set against a quiet peach-and-halftone split.",
+    "alt": "A hybrid hammer and wrench spanning textured mint and peach panels.",
+    "localPath": "assets/originals/2fc3a1323558124b.jpg"
+  },
+  {
+    "id": "anthropic-claude-personal-guidance",
+    "company": "anthropic",
+    "title": "How people ask Claude for personal guidance",
+    "date": "2026-04-30",
+    "sourceUrl": "https://www.anthropic.com/research/claude-personal-guidance",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d94bce6e361f8bc48ad47808ee878d2a64b1edef-2000x1125.jpg",
+    "localPath": "dist/assets/originals/bcad79a7b08f6798.jpg",
+    "type": "Photo + graphic",
+    "alt": "A loose black wave on peach paper and orange beside a gray-purple marbled texture.",
+    "note": "A wide, wandering ink line crosses a peach rectangle over orange, while gray-purple marbling fills the neighboring panel. The large gesture and dense fluid texture have different scales but share a tactile surface.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-hard-questions",
+    "company": "anthropic",
+    "title": "Inviting hard questions",
+    "date": "2026-07-09",
+    "sourceUrl": "https://www.anthropic.com/news/hard-questions",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3fe58a56e696628496e95871e00b8287035ea645-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "A delicate flower photograph is juxtaposed with a coarse monochrome rock formation; blocks of paper color hold an otherwise organic image together.",
+    "alt": "A pale flower, rough standing rocks, and textured paper panels.",
+    "localPath": "assets/originals/ce8a92faa001987b.jpg"
+  },
+  {
+    "id": "anthropic-mythos-preview",
+    "company": "anthropic",
+    "title": "Assessing Claude Mythos Preview’s cybersecurity capabilities",
+    "date": "2026-04-07",
+    "sourceUrl": "https://www.anthropic.com/research/mythos-preview",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3245c65ef009da0e45528cb260ca9c399210bc38-2000x1125.jpg",
+    "localPath": "dist/assets/originals/0aa6388d7a3c9d66.jpg",
+    "type": "Photo + graphic",
+    "alt": "A flower assembled from folded pale pink, white, and printed paper against a textured dark gray background.",
+    "note": "A single paper flower carries the whole image. Folded and printed fragments replace petals, with soft pink and cream emerging from charcoal; visible material detail gives the restrained still life unusual depth.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-opus-5-5-atmospheric-horizon",
+    "company": "anthropic",
+    "title": "Claude Opus 5.5 — atmospheric horizon",
+    "date": "2026-09-22",
+    "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b7b0d617a1d7a573197f480122d6e500bc78e633-2560x1440.webp",
+    "type": "Cinematic",
+    "note": "A narrow orange rim separates a dark curved horizon from a blue atmospheric glow. Soft grain, a restrained palette, and the absence of overlaid labels make the light itself carry the composition.",
+    "alt": "A dark curved planetary horizon beneath a thin orange glow and a deep blue atmospheric sky.",
+    "tags": [
+      "cinematic",
+      "atmosphere",
+      "horizon",
+      "space",
+      "grain",
+      "negative space"
+    ],
+    "localPath": "dist/assets/originals/d17de449952ce443.webp"
+  },
+  {
+    "id": "anthropic-introducing-anthropic-science",
+    "company": "anthropic",
+    "title": "Introducing our Science Blog",
+    "date": "2026-03-23",
+    "sourceUrl": "https://www.anthropic.com/research/introducing-anthropic-science",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/5875fb14fc38a748218bf5af9e693e290fec61b6-1920x1080.jpg",
+    "localPath": "dist/assets/originals/89320da1f3efa1d6.jpg",
+    "type": "Photo + graphic",
+    "alt": "Monochrome butterfly specimens with one green butterfly beside a pale grid with green squares and dark circular laboratory imagery.",
+    "note": "A specimen-sheet rhythm is interrupted by one solid green butterfly. Graph paper and a dark circular scientific image extend the same green accent, linking natural forms to the ordered language of research.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-public-benefit-fund",
+    "company": "anthropic",
+    "title": "Investing in the public benefit",
+    "date": "2026-10-18",
+    "sourceUrl": "https://www.anthropic.com/news/public-benefit-fund",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/cbdc2eac6dfb37cf596d8f9fb32783036b5737c2-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "A landscape and a sky exchange places through rectangular windows; blue and warm meadow color repeat across both panels to connect the reversal.",
+    "alt": "Two framed windows exchanging a blue sky and a flower meadow.",
+    "localPath": "assets/originals/0a150e5964b72d0a.jpg"
+  },
+  {
+    "id": "anthropic-labor-market-impacts",
+    "company": "anthropic",
+    "title": "Labor market impacts of AI: A new measure and early evidence",
+    "date": "2026-03-05",
+    "sourceUrl": "https://www.anthropic.com/research/labor-market-impacts",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/56c23cb778a7c19d014ca83cee6591c01ba4a05d-2000x1125.jpg",
+    "localPath": "dist/assets/originals/672eaf9833837985.jpg",
+    "type": "Photo + graphic",
+    "alt": "A photographed brass balance scale with a steel wrench spanning its two shallow dishes on pale yellow paper.",
+    "note": "A steel wrench rests across a delicate brass balance. The physical contradiction supplies the image concept, while pale yellow space and metallic detail keep the composition spare and tactile.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-open-call-guest-investigators-life-sciences",
+    "company": "anthropic",
+    "title": "Open call for guest investigators in the life sciences",
+    "date": "2026-10-22",
+    "sourceUrl": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b735fbd5cb2d8b2ed82aad92fa774b8e5139b9d8-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "Scientific drawings and archival-looking microscope photography share cyan paper; a warm photograph of hands supplies a human counterweight.",
+    "alt": "Biological sketches, hands working, and an archival microscope photograph on blue paper.",
+    "localPath": "assets/originals/955ee9b013896b03.jpg"
+  },
+  {
+    "id": "anthropic-deprecation-updates-opus-3",
+    "company": "anthropic",
+    "title": "Model deprecation update for Claude Opus 3",
+    "date": "2026-02-25",
+    "sourceUrl": "https://www.anthropic.com/news/deprecation-updates-opus-3",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/ac18a11f88ea159cedb480d3dc29bc2a674e2314-1920x1080.jpg",
+    "alt": "A delicate brown botanical stem crosses torn peach paper and pale yellow ruled notebook paper.",
+    "localPath": "dist/assets/originals/562f86a8e23b1609.jpg",
+    "note": "The diagonal stem connects torn and ruled paper textures. Peach, cream, and soft yellow stay close in value, leaving the fine botanical silhouette and ragged edge as the principal details.",
+    "type": "Photo + graphic",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ],
+    "provenance": "Original full image linked in the official Anthropic page HTML. Complete composition retained. Publication date verified from the article’s time element or article:published_time metadata."
+  },
+  {
+    "id": "anthropic-2026-us-midterms",
+    "company": "anthropic",
+    "title": "Preparing for the 2026 US midterms",
+    "date": "2026-10-14",
+    "sourceUrl": "https://www.anthropic.com/news/2026-us-midterms",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/609927c7af2a454cedad848e4b2adc980c1f5fe6-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "A ballot-box photograph, a city map, and a physical balance scale connect civic life to a restrained paper composition with two colored discs.",
+    "alt": "Ballot-box photograph over a map, beside colored discs and a balance scale.",
+    "localPath": "assets/originals/7f0520e444ddc984.jpg"
+  },
+  {
+    "id": "anthropic-detecting-and-preventing-distillation-attacks",
+    "company": "anthropic",
+    "title": "Detecting and preventing distillation attacks",
+    "date": "2026-02-23",
+    "sourceUrl": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/18c5c47d69f58ed068a4254b011369de5cc9be8b-2000x1125.jpg",
+    "alt": "Pale botanical silhouettes appear on a blue rectangle and as a coral halftone pattern on a navy rectangle, mounted on cream graph and ruled paper.",
+    "localPath": "dist/assets/originals/aea5e9413fa2743f.jpg",
+    "note": "The repeated plant image changes color and reproduction method across two panels. Cyanotype-like contrast, halftone dots, and notebook rules turn a simple comparison into a tactile print composition.",
+    "type": "Photo + graphic",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ],
+    "provenance": "Original full image linked in the official Anthropic page HTML. Complete composition retained. Publication date verified from the article’s time element or article:published_time metadata."
+  },
+  {
+    "id": "anthropic-distillation-defenses",
+    "company": "anthropic",
+    "title": "Strengthening our defenses against distillation attacks",
+    "date": "2026-10-12",
+    "sourceUrl": "https://www.anthropic.com/news/distillation-defenses",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/46303b759b178149b34f19321645a0ede17b3f82-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "Repeated cyanotype-like botanical prints recede across graph paper; a disciplined change in size turns duplication into a spatial rhythm.",
+    "alt": "Blue botanical print panels repeating at progressively smaller sizes over graph paper.",
+    "localPath": "assets/originals/1bf0d59a3e6d8176.jpg"
+  },
+  {
+    "id": "anthropic-measuring-agent-autonomy",
+    "company": "anthropic",
+    "title": "Measuring AI agent autonomy in practice",
+    "date": "2026-02-18",
+    "sourceUrl": "https://www.anthropic.com/research/measuring-agent-autonomy",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2a8318397e04c2ab32e6f788a2139fdb60441277-1920x1080.jpg",
+    "localPath": "dist/assets/originals/555f7fda64881535.jpg",
+    "type": "Photo + graphic",
+    "alt": "A bird illustration across orange, pale blue, and cream panels beside a white botanical cyanotype on deep blue.",
+    "note": "A bird crosses the boundaries of three paper colors, while a white botanical cyanotype occupies a deep blue strip. The horizontal movement and contrasting image traditions make a strong study in collage continuity.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-anthropic-cyber-mission",
+    "company": "anthropic",
+    "title": "Introducing the Anthropic Cyber Mission",
+    "date": "2026-10-08",
+    "sourceUrl": "https://www.anthropic.com/news/anthropic-cyber-mission",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/e6614df689675126bb32ceb5cfcaaae016050c36-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "A guest-book-like document and a small landscape photograph sit above red numerical paper; found-record textures give the page an archival mood.",
+    "alt": "Open document with a landscape photograph, backed by a grid of red numbers.",
+    "localPath": "assets/originals/b58af5afa9b21b23.jpg"
+  },
+  {
+    "id": "anthropic-zero-days",
+    "company": "anthropic",
+    "title": "Evaluating and mitigating the growing risk of LLM-discovered 0-days",
+    "date": "2026-02-05",
+    "sourceUrl": "https://www.anthropic.com/research/zero-days",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/20fe001657324f2d75eccc9b8c1b9f43e5400d84-2000x1125.jpg",
+    "localPath": "dist/assets/originals/9788e7535de8e008.jpg",
+    "type": "Photo + graphic",
+    "alt": "A close-up of tree growth rings crossed by a pale measuring strip beside a compass rose over muted marbled paper.",
+    "note": "Tree rings and a compass rose establish two circular systems across a single seam. Fine natural grain, faded marble, and a pale measuring strip produce an archival palette and a strong sense of material history.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-persona-selection-model",
+    "company": "anthropic",
+    "title": "The persona selection model",
+    "date": "2026-02-23",
+    "sourceUrl": "https://www.anthropic.com/research/persona-selection-model",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/c527a0cf4cccc234cc7623fe5e1da6e9d82e10ac-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "A ginkgo leaf interrupts halftone texture and a circular arrangement of technical drawings; a single botanical object gives the abstract structure a tactile anchor.",
+    "alt": "Ginkgo leaf over halftone green paper and a circular arrangement of pale technical drawings.",
+    "localPath": "assets/originals/42740c448796db78.jpg"
+  },
+  {
+    "id": "anthropic-next-generation-constitutional-classifiers",
+    "company": "anthropic",
+    "title": "Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks",
+    "date": "2026-01-09",
+    "sourceUrl": "https://www.anthropic.com/research/next-generation-constitutional-classifiers",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d4efe1ab02c2a6d19d7fb7d0ff180b68a92772eb-2000x1125.jpg",
+    "localPath": "dist/assets/originals/f71760b1d31f3753.jpg",
+    "type": "Photo + graphic",
+    "alt": "An ornate brass bird-shaped clasp on pink beside ochre chain-link mesh and a grainy purple texture panel.",
+    "note": "A small ornate brass clasp is isolated on quiet pink, then paired with mesh and coarse purple grain. Three different material densities make the simple panel layout feel rich without becoming busy.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-teaching-claude-why",
+    "company": "anthropic",
+    "title": "Teaching Claude why",
+    "date": "2026-05-08",
+    "sourceUrl": "https://www.anthropic.com/research/teaching-claude-why",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2ac369f2f75b92b4506f9e5122ff3f85774c4523-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "A photographed brass key is paired with a translucent drafting stencil; real material and geometric cutouts share the same restrained green-pink palette.",
+    "alt": "Brass key on muted green beside a mint drafting stencil on pink.",
+    "localPath": "assets/originals/c58522e58f98ea3e.jpg"
+  },
+  {
+    "id": "anthropic-critical-infrastructure-defense",
+    "company": "anthropic",
+    "title": "Experimenting with AI to defend critical infrastructure",
+    "date": "2026-01-08",
+    "sourceUrl": "https://www.anthropic.com/research/critical-infrastructure-defense",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3611382c3eaaa77aa174b72f13e1a4061ea21903-2000x1125.jpg",
+    "localPath": "dist/assets/originals/bfe712c80d1341c4.jpg",
+    "type": "Photo + graphic",
+    "alt": "A torn blue paper opening against a dark surface beside a cyan architectural drawing with a patch of photographed sky.",
+    "note": "An abrupt blue opening and an architectural elevation are layered with sky photography. Dark material, torn paper edges, and translucent cyan produce a spatial collage with strong light-dark balance.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-AI-assistance-coding-skills",
+    "company": "anthropic",
+    "title": "How AI assistance impacts the formation of coding skills",
+    "date": "2026-01-29",
+    "sourceUrl": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/1a850d521ce787832a977168bb0b9fbe7e6c02dc-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "Sheet music is placed beside an extreme lunar crop; both subjects carry fine directional detail while a dark vertical seam separates notation from terrain.",
+    "alt": "Sheet music beside a dark close-up of the moon surface.",
+    "localPath": "assets/originals/c97b0eaa7044a5b0.jpg"
+  },
+  {
+    "id": "anthropic-bloom",
+    "company": "anthropic",
+    "title": "Introducing Bloom: an open source tool for automated behavioral evaluations",
+    "date": "2025-12-19",
+    "sourceUrl": "https://www.anthropic.com/research/bloom",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/1e6487efbfbb041509108ed14868f2937f298cd8-2000x1125.jpg",
+    "localPath": "dist/assets/originals/a9eecd24aceeceb3.jpg",
+    "type": "Photo + graphic",
+    "alt": "An archival branching scientific drawing beside a blue cyanotype of flowering stems.",
+    "note": "Two image traditions share a single seam: a fine branching scientific drawing and a deep blue botanical cyanotype. Branching forms repeat across both, joining cream paper and saturated blue through structure.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-sonnet-5-5-orbital-window",
+    "company": "anthropic",
+    "title": "Claude Sonnet 5.5 — orbital window",
+    "date": "2026-09-28",
+    "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg",
+    "type": "Cinematic",
+    "note": "A spacecraft window frames the bright blue curve of Earth beneath a quiet white serif title. Dark interior edges establish depth, while the surrounding photographic fragments give the launch image an editorial, physical quality.",
+    "alt": "The blue curve of Earth seen through a dark spacecraft window with a white Claude Sonnet 5.5 title and photographic side panels.",
+    "tags": [
+      "cinematic",
+      "space",
+      "window",
+      "photography",
+      "serif",
+      "launch"
+    ],
+    "localPath": "dist/assets/originals/332c528d68c767b9.jpg"
+  },
+  {
+    "id": "anthropic-anthropic-interviewer",
+    "company": "anthropic",
+    "title": "Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI",
+    "date": "2025-12-04",
+    "sourceUrl": "https://www.anthropic.com/research/anthropic-interviewer",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/526bcb2a316e61dc94631d148e17b1ac155442ea-2000x1125.jpg",
+    "localPath": "dist/assets/originals/ac21222775e94f92.jpg",
+    "type": "Photo + graphic",
+    "alt": "A photographed red-and-blue bar magnet bridging pale blue and dark fields of drawn directional arrows.",
+    "note": "A physical bar magnet joins two contrasting fields of arrows. Cool sky texture, deep blue-black, and one sharp red accent make the invisible forces legible without turning the image into a chart.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench",
+    "company": "anthropic",
+    "title": "Evaluating Claude with BioMysteryBench",
+    "date": "2026-04-29",
+    "sourceUrl": "https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/1ed2f6ed14acd3fb7741d42ca151c7a0fd751cf3-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "A monochrome anatomical brain image appears on torn cream paper, with coral panels and drawn paths framing it as a physical research artifact.",
+    "alt": "An anatomical brain image on torn cream paper, surrounded by coral panels and drawn black curves.",
+    "localPath": "assets/originals/8a4cb0f811cbb8c0.jpg"
+  },
+  {
+    "id": "anthropic-how-ai-is-transforming-work-at-anthropic",
+    "company": "anthropic",
+    "title": "How AI is transforming work at Anthropic",
+    "date": "2025-12-02",
+    "sourceUrl": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/bc687c155daabe9ec74b4eff6e14b9657f83d763-2000x1125.jpg",
+    "localPath": "dist/assets/originals/2fcd3c3b196375c7.jpg",
+    "type": "Photo + graphic",
+    "alt": "Warm-toned photographs of office chairs with white drawn curves and a small cream square carrying a black pixel-like emblem.",
+    "note": "A quiet office scene is interrupted by loose white curves and a crisp cream emblem tile. Warm furniture photography gives the abstract central mark a physical setting and a restrained human scale.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-vibe-physics",
+    "company": "anthropic",
+    "title": "Vibe physics: The AI grad student",
+    "date": "2026-03-23",
+    "sourceUrl": "https://www.anthropic.com/research/vibe-physics",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d96d4ce5c32b6dc6de0d305661d26a0620f85ae6-2000x1125.jpg",
+    "type": "Photo + graphic",
+    "note": "Photographic rock fragments are cut into polygonal pieces across graph paper and a warm wash; the hard masks make irregular natural textures legible.",
+    "alt": "Polygonal stone fragments on pale graph paper and a yellow textured field.",
+    "localPath": "assets/originals/49edf5caac97dbe9.jpg"
+  },
+  {
+    "id": "anthropic-prompt-injection-defenses",
+    "company": "anthropic",
+    "title": "Mitigating the risk of prompt injections in browser use",
+    "date": "2025-11-24",
+    "sourceUrl": "https://www.anthropic.com/research/prompt-injection-defenses",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/ea54304dcb09dc7ac5903e067f03176281005f64-2000x1125.jpg",
+    "localPath": "dist/assets/originals/0833cbbeed60b69c.jpg",
+    "type": "Photo + graphic",
+    "alt": "Gold-handled scissors across pale mint and cream paper beside reddish grain and a green-and-white dot pattern.",
+    "note": "The scissors cross two quiet paper colors while dense red grain and green halftone occupy the left. A clear physical object anchors four contrasting surface treatments in a disciplined asymmetrical layout.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-disrupting-AI-espionage",
+    "company": "anthropic",
+    "title": "Disrupting an AI-orchestrated cyber espionage campaign",
+    "date": "2025-11-13",
+    "sourceUrl": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/61a393c826ca1c0390920168f1650e5dbe00f401-2000x1125.jpg",
+    "alt": "A brass key and white paper silhouette are cut across a pale-blue square grid, with torn printed textures beneath.",
+    "localPath": "dist/assets/originals/dca3049d1c71e029.jpg",
+    "note": "A strong grid breaks the key into offset fragments without losing its recognizable silhouette. Pale blue, white, and tarnished brass give the image a restrained palette, while the torn edges add a physical paper quality.",
+    "type": "Photo + graphic",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ],
+    "provenance": "Original full image linked in the official Anthropic page HTML. Complete composition retained. Publication date verified from the article’s time element or article:published_time metadata."
+  },
+  {
+    "id": "anthropic-introspection",
+    "company": "anthropic",
+    "title": "Signs of introspection in large language models",
+    "date": "2025-10-29",
+    "sourceUrl": "https://www.anthropic.com/research/introspection",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/c59f7d367d80ed76bd8a34e7e457eadce5ebae78-2000x1125.jpg",
+    "localPath": "dist/assets/originals/9fed6ae7df6583cb.jpg",
+    "type": "Photo + graphic",
+    "alt": "An electrocardiogram-like trace on pale aged paper beside a thick slice of bread set against a landscape.",
+    "note": "A dense physiological trace meets the porous texture of a single bread slice. The unusual pairing stays coherent through warm paper, pale gray, and one strong vertical seam.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-economic-policy-responses",
+    "company": "anthropic",
+    "title": "Preparing for AI’s economic impact: exploring policy responses",
+    "date": "2025-10-14",
+    "sourceUrl": "https://www.anthropic.com/research/economic-policy-responses",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/660c5a1ab7977115cbc75cc03d5a7edd136f723e-1920x1080.jpg",
+    "localPath": "dist/assets/originals/f16ac0cec723b619.jpg",
+    "type": "Photo + graphic",
+    "alt": "A drawing of two classical columns on a torn pale sheet beside an upward-looking photograph of a modern high-rise.",
+    "note": "Classical columns and a modern tower share an upward orientation. A torn paper boundary, pale blue, and cool architectural photography make two eras of construction feel like parts of one editorial spread.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-agents-judgment-calls",
+    "company": "anthropic",
+    "title": "How AI agents shape experts’ judgment calls",
+    "date": "2026-10-27",
+    "sourceUrl": "https://www.anthropic.com/research/agents-judgment-calls",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/c3cbffb64d9aeb025d02170318bdd4befdb0cf12-2000x1125.jpg",
+    "localPath": "dist/assets/originals/6dbd702fcd27ff4d.jpg",
+    "type": "Photo + graphic",
+    "alt": "A vintage schooner lithograph layered over a worn buff folder and a blue handwritten passenger manifest.",
+    "note": "A storm-tossed schooner anchors overlapping records in buff and pale blue. Paper wear, handwriting, and the small angled image create an archival composition with a clear focal point.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-building-ai-cyber-defenders",
+    "company": "anthropic",
+    "title": "Building AI for cyber defenders",
+    "date": "2025-09-29",
+    "sourceUrl": "https://www.anthropic.com/research/building-ai-cyber-defenders",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/fc86c2ada2abccee7918bac7a61d25f28123f434-2000x1125.jpg",
+    "localPath": "dist/assets/originals/d8b441869446bc17.jpg",
+    "type": "Photo + graphic",
+    "alt": "A transparent padlock inside drawn geometric lines beside green paper with ink curves and a pale field of handwritten marks.",
+    "note": "The clear padlock catches small highlights inside a fine geometric cage. Green paper, pale handwritten texture, and black space balance precise machinery with looser human marks.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-persona-vectors",
+    "company": "anthropic",
+    "title": "Persona vectors: Monitoring and controlling character traits in language models",
+    "date": "2025-08-01",
+    "sourceUrl": "https://www.anthropic.com/research/persona-vectors",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/088358645e24d83bde0af8bac237843141e1ba5b-2000x1125.jpg",
+    "localPath": "dist/assets/originals/482466ddb6a36dff.jpg",
+    "type": "Photo + graphic",
+    "alt": "A monochrome brain cross-section on pink beside a crumpled colored map with a white card and a loose outlined shape.",
+    "note": "A precise anatomical brain image is paired with a crumpled map and a loose outlined form on a small white card. Pale pink and muted map colors hold the competing meanings of territory and representation together.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-how-people-use-claude-for-support-advice-and-companionship",
+    "company": "anthropic",
+    "title": "How people use Claude for support, advice, and companionship",
+    "date": "2025-06-27",
+    "sourceUrl": "https://www.anthropic.com/research/how-people-use-claude-for-support-advice-and-companionship",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/ad870e30af3614feb0e66d025eb6865027fc4be1-2000x1125.jpg",
+    "localPath": "dist/assets/originals/b0c8ffdf293d5a6a.jpg",
+    "type": "Photo + graphic",
+    "alt": "Pale flowers against brown, small footprints on a light surface, and a black-and-white apartment facade arranged in unequal panels.",
+    "note": "Flowers, small traces of movement, and repeating balconies occupy three different scales. The warm organic detail and cool architectural grid create a restrained composition about human presence without a portrait.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-values-wild",
+    "company": "anthropic",
+    "title": "Values in the wild: Discovering and analyzing values in real-world language model interactions",
+    "date": "2025-04-21",
+    "sourceUrl": "https://www.anthropic.com/research/values-wild",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/af5d1cc2b7c0692c4f2e542f1cf8e4cabce5283f-2000x1125.jpg",
+    "localPath": "dist/assets/originals/652da00715fcc8cd.jpg",
+    "type": "Photo + graphic",
+    "alt": "Loose black ink curves on tan paper beside pale peony flowers against a warm brown background.",
+    "note": "Loose ink arcs and white peonies share an off-center vertical seam. The curves echo the opening petals; aged tan paper and warm brown photography keep the relationship subtle and tactile.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-evaluating-feature-steering",
+    "company": "anthropic",
+    "title": "Evaluating feature steering: A case study in mitigating social biases",
+    "date": "2024-10-25",
+    "sourceUrl": "https://www.anthropic.com/research/evaluating-feature-steering",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0a91d0a7b636455a1185d092fafcca568c073e54-2000x1125.jpg",
+    "localPath": "dist/assets/originals/402d384b6f7ade4d.jpg",
+    "type": "Photo + graphic",
+    "alt": "A small cyanotype-like botanical specimen on a blue card over burgundy halftone beside multicolor marbled paper.",
+    "note": "A compact blue specimen card sits inside a dark burgundy field, opposed by flowing marbled paper. The rigid inset and dense organic swirls create a useful contrast in framing, texture, and image scale.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-features-as-classifiers",
+    "company": "anthropic",
+    "title": "Using dictionary learning features as classifiers",
+    "date": "2024-10-16",
+    "sourceUrl": "https://www.anthropic.com/research/features-as-classifiers",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/df3ad23faf91cbf57c0ce7245bee2b1b5eb9ec3a-2000x1125.jpg",
+    "localPath": "dist/assets/originals/9867bfbb8f815042.jpg",
+    "type": "Photo + graphic",
+    "alt": "A red ticket over beige geometric drafting paper beside black film leader, gray terrain photography, and printed numbers.",
+    "note": "A red ticket floats over technical drafting, while a vertical film strip interrupts terrain and printed number fields. The asymmetrical paper montage makes one saturated red object carry the focus.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-golden-gate-claude",
+    "company": "anthropic",
+    "title": "Golden Gate Claude",
+    "date": "2024-05-23",
+    "sourceUrl": "https://www.anthropic.com/research/golden-gate-claude",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b9cae5bd58125d8650c5ae390ee9b054c0eb8ae9-1920x1080.jpg",
+    "localPath": "dist/assets/originals/93a2f8ba46713802.jpg",
+    "type": "Photo + graphic",
+    "alt": "Three black-and-white Golden Gate Bridge photographs in pale, muted green, and purple vertical panels, with fine white line overlays.",
+    "note": "Three repeated bridge towers create a steady photographic rhythm. Pale gray, muted green, and dusty purple change the mood of each panel, with fine white curves lightly tying the views together.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-evaluating-and-mitigating-discrimination-in-language-model-decisions",
+    "company": "anthropic",
+    "title": "Evaluating and mitigating discrimination in language model decisions",
+    "date": "2023-12-07",
+    "sourceUrl": "https://www.anthropic.com/research/evaluating-and-mitigating-discrimination-in-language-model-decisions",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/fa64ac336bcfb29c9f37961758a0e9352c588818-2000x1125.jpg",
+    "localPath": "dist/assets/originals/ea0415f5732bad40.jpg",
+    "type": "Photo + graphic",
+    "alt": "Close-up moth wings in muted brown and golden yellow on two pale textured panels.",
+    "note": "Two moth specimens are enlarged into near-abstract wings. Fine scales and small eye-like openings carry the detail, while pale paper, warm brown, and mustard establish a quiet museum-display palette.",
+    "provenance": "Original full hero image linked as the article cover in the official Anthropic page HTML. Publication date verified from the official article datePublished metadata. No artwork edits or crops.",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ]
+  },
+  {
+    "id": "anthropic-claudes-constitution",
+    "company": "anthropic",
+    "title": "Claude's constitution",
+    "date": "2023-05-09",
+    "sourceUrl": "https://www.anthropic.com/news/claudes-constitution",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/c8ef102f0e46b6ea8fb27e763130e2ce84bbfba7-3000x1688.jpg",
+    "alt": "An ornate silver mirror lies over textured pink and ruled cream panels beside a coral field containing a black hand-and-document drawing.",
+    "localPath": "dist/assets/originals/1d9e60fb61110299.jpg",
+    "note": "A photographed reflective object shares the frame with an informal line drawing. Ruled paper, grain, and the warm coral field create an editorial collage with a clear balance between material detail and simplified marks.",
+    "type": "Photo + graphic",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ],
+    "provenance": "Original full image linked in the official Anthropic page HTML. Complete composition retained. Publication date verified from the article’s time element or article:published_time metadata."
+  },
+  {
+    "id": "anthropic-core-views-on-ai-safety",
+    "company": "anthropic",
+    "title": "Anthropic's core views on AI safety",
+    "date": "2023-03-08",
+    "sourceUrl": "https://www.anthropic.com/news/core-views-on-ai-safety",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/dd1f0730fc369a574023c7ede81c7527ee73a386-2000x1125.png",
+    "alt": "Fragments of a classical cloudy-sky painting appear through a patchwork of pale mint and medium-blue rectangles.",
+    "localPath": "dist/assets/originals/3ed7c74dde33ff9b.png",
+    "note": "Flat color blocks interrupt a richly shaded painted sky. Repeated right angles create a clear structure while the clouds retain softness, depth, and an older printed-image character.",
+    "type": "Photo + graphic",
+    "tags": [
+      "brand identity",
+      "editorial artwork",
+      "official article cover"
+    ],
+    "provenance": "Original full image linked in the official Anthropic page HTML. Complete composition retained. Publication date verified from the article’s time element or article:published_time metadata."
+  },
+  {
+    "id": "perplexity-p11",
+    "company": "perplexity",
+    "title": "Know it all — cosmic portrait",
+    "date": null,
+    "sourceUrl": "https://live.standards.site/perplexity/design",
+    "imageUrl": null,
+    "type": "Photo + graphic",
+    "note": "A human profile merges into a star-filled sky beneath expressive serif lettering; granular print texture joins photographic and imagined scales.",
+    "alt": "A person in profile with a star-filled sky extending above their head and the words Know it all.",
+    "localPath": "assets/originals/38240a59427b1530.png"
+  },
+  {
+    "fileId": "0bbc4867e535c36e0fafc30130d3b087",
+    "filename": "perplexity-portal-PH.png",
+    "localPath": "dist/assets/originals/e30bdd08d210cd9d.webp",
+    "id": "perplexity-portal-clouds",
+    "company": "perplexity",
+    "title": "Where will curiosity take you? — portal",
+    "date": null,
+    "sourceUrl": "https://live.standards.site/perplexity/design",
+    "imageUrl": null,
+    "type": "Photo + graphic",
+    "alt": "A solitary figure stands on a cloud-covered summit below a dark circular portal, with a large white Perplexity wordmark above.",
+    "note": "A large wordmark anchors the surreal sky. Orange cloud edges, blue-violet shadows, and fine grain connect the portal to the brand’s celestial poster family.",
+    "recommended": true,
+    "provenance": "Original image file linked from a Media element on the public official Perplexity brand guide. No campaign publication date asserted. Full-resolution WebP prepared from the linked source image for hosting."
+  },
+  {
+    "id": "perplexity-p12",
+    "company": "perplexity",
+    "title": "Camp — constellation poster",
+    "date": null,
+    "sourceUrl": "https://live.standards.site/perplexity/design",
+    "imageUrl": null,
+    "type": "Photo + graphic",
+    "note": "A geometric constellation hangs over a small seated camper; gold-and-blue grain connects the landscape, stars, and precise linework.",
+    "alt": "A camper and tent beneath a large geometric constellation in a blue and orange night sky.",
+    "localPath": "assets/originals/e6ae9389b20448f7.png"
+  },
+  {
+    "fileId": "0d6e791da5317c2940654200d6a44a35",
+    "filename": "where-knowledge.png",
+    "localPath": "dist/assets/originals/1dfada635d9ccdb9.webp",
+    "id": "perplexity-knowledge-portrait",
+    "company": "perplexity",
+    "title": "Where knowledge begins — sunset poster",
+    "date": null,
+    "sourceUrl": "https://live.standards.site/perplexity/design",
+    "imageUrl": null,
+    "type": "Photo + graphic",
+    "alt": "An orange fan-shaped sun sits over tiny people, mountains, and a stepped building beneath tall white serif lettering and a small Perplexity wordmark.",
+    "note": "Compressed serif lettering rises through the open blue sky while an oversized geometric sun joins landscape and architectural detail. Tiny figures make the promise of discovery feel expansive; warm grain ties the illustration to print.",
+    "recommended": true,
+    "provenance": "Original image file linked from a Media element on the public official Perplexity brand guide. No campaign publication date asserted. Full-resolution WebP prepared from the linked source image for hosting."
+  },
+  {
+    "id": "perplexity-p13",
+    "company": "perplexity",
+    "title": "Like never — alpine discovery",
+    "date": null,
+    "sourceUrl": "https://live.standards.site/perplexity/brand",
+    "imageUrl": null,
+    "type": "Cinematic",
+    "note": "A tiny figure faces an immense warm-toned mountain landscape; a cobalt border and grain keep the illustrated scene close to printed campaign art.",
+    "alt": "A small hiker facing orange mountains under a deep blue sky.",
+    "localPath": "assets/originals/e285d6a930f5f6f8.png"
+  },
+  {
+    "fileId": "366c7ac35c185dddb424d1efe062b2c8",
+    "filename": "knowledge-begins.png",
+    "localPath": "dist/assets/originals/09b83de15fcbaa81.webp",
+    "id": "perplexity-knowledge-landscape",
+    "company": "perplexity",
+    "title": "Where knowledge begins — architectural landscape",
+    "date": null,
+    "sourceUrl": "https://live.standards.site/perplexity/type",
+    "imageUrl": null,
+    "type": "Photo + graphic",
+    "alt": "A warm sunset, distant mountains, and tiny people framed by a large modern building, with white serif headline and Perplexity wordmark.",
+    "note": "The landscape adaptation moves the serif headline into the upper-left sky and lets the building dominate the right. The low sun becomes both a celestial motif and a compositional counterweight to the architecture. A distinct horizontal application of the portrait poster.",
+    "recommended": true,
+    "provenance": "Original image file linked from a Media element on the public official Perplexity brand guide. No campaign publication date asserted. Full-resolution WebP prepared from the linked source image for hosting."
+  },
+  {
+    "id": "perplexity-p14",
+    "company": "perplexity",
+    "title": "Campaign applications — sky, book, and interface",
+    "date": null,
+    "sourceUrl": "https://live.standards.site/perplexity/brand",
+    "imageUrl": null,
+    "type": "Photo + graphic",
+    "note": "Three official campaign applications show how landscape imagery, a device photograph, and celestial linework retain one tonal family across distinct subjects.",
+    "alt": "Three campaign examples featuring a sunset landscape, a phone, and an open book with celestial graphics.",
+    "localPath": "assets/originals/718c0f715a22b342.png"
+  },
+  {
+    "fileId": "b0d55423d666db4bd7c3995742ff6dd4",
+    "filename": "Standards-Logo-Use-Posters.jpg",
+    "localPath": "dist/assets/originals/0eecc102006fd182.jpg",
+    "id": "perplexity-street-campaign",
+    "company": "perplexity",
+    "title": "Curiosity campaign — street posters",
+    "date": null,
+    "sourceUrl": "https://live.standards.site/perplexity/design",
+    "imageUrl": null,
+    "type": "Photo + graphic",
+    "alt": "A wall of complete Perplexity posters featuring a cosmic portrait, illustrated book, geometric constellations, and blue-green campaign typography.",
+    "note": "The photographed street application puts the celestial imagery and precise geometric system into one physical sequence. Repeated wordmarks, muted turquoise, aged wall texture, and contrasting image densities show how the identity remains recognizable across a campaign.",
+    "recommended": true,
+    "provenance": "Original image file linked from a Media element on the public official Perplexity brand guide. No campaign publication date asserted."
+  },
+  {
+    "fileId": "b88ba0c15ac039df179da562e3e73e78",
+    "filename": "GLeIXVvW4AABUkt.jpeg",
+    "localPath": "dist/assets/originals/2da92ed2f0f066f6.jpg",
+    "id": "perplexity-labs-llama3",
+    "company": "perplexity",
+    "title": "Perplexity Labs — Llama 3 launch",
+    "date": null,
+    "sourceUrl": "https://live.standards.site/perplexity/design",
+    "imageUrl": null,
+    "type": "Photo + graphic",
+    "alt": "A dark sculptural llama lit in electric blue beside large white Llama 3 typography and the Perplexity Labs logo.",
+    "note": "A tightly cropped animal form, blue rim light, and oversized white numeral turn a model announcement into a collectible science-fiction cover. The cream border and small technical labeling carry the editorial brand language into a sharper launch aesthetic.",
+    "recommended": true,
+    "provenance": "Original image file linked from a Media element on the public official Perplexity brand guide. No campaign publication date asserted."
+  },
+  {
+    "fileId": "5dd922cefbf6fe8815a2e59aae16da91",
+    "filename": "Perplexity-Applications-Tote-02-Paperwhite.png",
+    "localPath": "dist/assets/originals/8d4daf0c10cc28ea.webp",
+    "id": "perplexity-hello-tote",
+    "company": "perplexity",
+    "title": "Hello — illustrated tote application",
+    "date": null,
+    "sourceUrl": "https://live.standards.site/perplexity/design",
+    "imageUrl": null,
+    "type": "Photo + graphic",
+    "alt": "A cream canvas tote printed with a collage of books, eyes, a globe, geometric diagrams, equations, Hello, and the Perplexity wordmark.",
+    "note": "The complete product photograph shows the curiosity system working as merchandise: encyclopedic symbols cluster above an oversized wordmark, while monochrome teal and undyed canvas keep the density coherent. More graphic than the cinematic posters.",
+    "recommended": true,
+    "provenance": "Original image file linked from a Media element on the public official Perplexity brand guide. No campaign publication date asserted. Full-resolution WebP prepared from the linked source image for hosting."
+  },
+  {
+    "fileId": "c0b9f839e1f7a62f0958153b9b6ab4c7",
+    "filename": "Perplexity-Applications-Static-Poster-Mock-02.jpg",
+    "localPath": "dist/assets/originals/282a4f48dd2fbce3.jpg",
+    "id": "perplexity-hello-interior",
+    "company": "perplexity",
+    "title": "Hello — framed editorial poster",
+    "date": null,
+    "sourceUrl": "https://live.standards.site/perplexity/brand",
+    "imageUrl": null,
+    "type": "Photo + graphic",
+    "alt": "A framed Perplexity Hello collage poster leans against a honey-colored wooden wall in dramatic sunlight.",
+    "note": "Low raking light and long shadows give a dense diagrammatic print the presence of an art object. Warm wood and the cream paper temper the precise teal imagery; the composition shows an environmental application rather than an isolated design.",
+    "recommended": true,
+    "provenance": "Original image file linked from a Media element on the public official Perplexity brand guide. No campaign publication date asserted."
+  },
+  {
+    "fileId": "5470440f77feae3a038745071b42573b",
+    "filename": "Perplexity-Applications-Static-Poster-ALL.png",
+    "localPath": "dist/assets/originals/75cae3226dcd5df4.webp",
+    "id": "perplexity-poster-system-board",
+    "company": "perplexity",
+    "title": "Ask questions — campaign poster system",
+    "date": null,
+    "sourceUrl": "https://live.standards.site/perplexity/brand",
+    "imageUrl": null,
+    "type": "Photo + graphic",
+    "alt": "Three complete Perplexity campaign posters: a surreal landscape framed by a folded-paper shape, a teal geometric headline poster, and a pale grid-based knowledge poster.",
+    "note": "The official three-poster board shows how a cinematic landscape and two graphic typographic compositions share a single campaign language. Large lowercase wordmarks, turquoise, paper white, geometric grids, and folded-paper silhouettes connect the different image densities without forcing every application into the same layout.",
+    "provenance": "Original file linked from Media elements on the public Brand in Use page; independently observed in the rendered public guide by parent agent. No campaign publication date asserted. Full-resolution WebP prepared from the linked source image for hosting.",
+    "recommended": true
+  },
+  {
+    "id": "openai-o00",
+    "company": "openai",
+    "title": "GPT-6.1 Terra — planetary launch artwork",
+    "date": "2026-10-26",
+    "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/6A4TNlyfbaFa9hFjse6N54/34a0605cb33eaebbf2c90d8fe4b1f107/Art_Card_16x9.png",
+    "type": "Cinematic",
+    "note": "A bright planetary rim separates deep space from a detailed Earth; large white labels remain quiet against the single dominant image.",
+    "alt": "Earth seen from space with a glowing atmospheric rim and white GPT-6.1 Terra labels.",
+    "localPath": "assets/originals/f1703ebda2f5b9e0.png"
+  },
+  {
+    "id": "openai-brand-canopy-poster",
+    "company": "openai",
+    "title": "OpenAI identity — butterfly canopy poster",
+    "date": null,
+    "sourceUrl": "https://openai.com/brand/",
+    "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/4BzFpWAP0tkrp4Urko076X/8f1a6f871837ffe555c9037e1c11ac4c/OAI_BrandPage_05_1080x1350.png",
+    "localPath": "dist/assets/originals/e030c514fbfa4153.png",
+    "type": "Photo + graphic",
+    "alt": "A large white OpenAI wordmark sits over a deep blue sky framed by dark tree canopies and orange butterflies, on a pale poster mockup.",
+    "note": "Published in OpenAI’s own brand gallery, this composition uses a single large wordmark and an upward-looking photograph. Dark foliage frames the clear blue center, while orange butterflies add small warm accents. The white margins and restrained typography turn the photograph into a recognizable piece of identity design.",
+    "provenance": "Original image linked in the Gallery section of OpenAI’s public Design Guidelines, with its complete layout retained.",
+    "tags": [
+      "brand identity",
+      "official brand application",
+      "photography",
+      "poster"
+    ]
+  },
+  {
+    "id": "openai-with-chatgpt-garage",
+    "imageUrl": "https://oaaa.org/wp-content/uploads/2026/10/OpenAI-Super-Bowl-2026-02-scaled.jpg",
+    "sourceUrl": "https://oaaa.org/creative-library/chatgpt-billboard-campaign/",
+    "localPath": "dist/assets/originals/6e5b7616389cfd88.jpg",
+    "company": "openai",
+    "title": "With ChatGPT — garage gathering",
+    "date": null,
+    "type": "Photo + graphic",
+    "alt": "An illuminated ChatGPT campaign display shows several people gathering in a warm red-orange garage, with the OpenAI knot and ChatGPT wordmark flanking the image.",
+    "note": "The rectangular garage opening acts as a frame within the photograph. Saturated warm light draws the eye to the shared activity, while cooler green surroundings and moving commuters add contrast. The original white knot and wordmark keep the piece clearly identifiable as ChatGPT advertising.",
+    "provenance": "Advertiser-submitted ChatGPT Billboard Campaign entry in the official OAAA creative library, with OpenAI named as advertiser and extensive OpenAI creative credits. Entry year 2026 is an award year, not asserted as a campaign publication date.",
+    "tags": [
+      "brand identity",
+      "official campaign",
+      "photography",
+      "advertising"
+    ]
+  },
+  {
+    "id": "openai-codex-build-things-campaign",
+    "imageUrl": "https://i.ytimg.com/vi/aCN9iCXNJqQ/maxresdefault.jpg",
+    "sourceUrl": "https://www.youtube.com/watch?v=aCN9iCXNJqQ",
+    "localPath": "dist/assets/originals/d6870a931f911a94.jpg",
+    "width": 1280,
+    "height": 720,
+    "title": "Codex — You Can Just Build Things",
+    "date": "2026-02-08",
+    "type": "Photo + graphic",
+    "alt": "First-person view of hands holding a black device bearing the OpenAI knot, with large white campaign text over a warmly lit workshop.",
+    "note": "An original OpenAI Super Bowl campaign frame: warm practical light and a first-person workbench composition make the product feel hands-on; the white OpenAI knot and large, plain sans-serif campaign line anchor an immediately identifiable piece of brand advertising.",
+    "company": "openai",
+    "dateEvidenceUrl": "https://www.youtube.com/watch?v=aCN9iCXNJqQ",
+    "tags": [
+      "brand identity",
+      "official campaign",
+      "launch artwork"
+    ]
+  },
+  {
+    "id": "openai-with-chatgpt-city-billboard",
+    "imageUrl": "https://oaaa.org/wp-content/uploads/2026/10/OpenAI-Super-Bowl-2026-05-scaled.jpg",
+    "sourceUrl": "https://oaaa.org/creative-library/chatgpt-billboard-campaign/",
+    "localPath": "dist/assets/originals/ad295b4da63192ed.jpg",
+    "company": "openai",
+    "title": "With ChatGPT — city billboard",
+    "date": null,
+    "type": "Photo + graphic",
+    "alt": "A giant ChatGPT campaign billboard shows a person seated in a warmly lit wood-paneled room, installed above a San Francisco streetscape.",
+    "note": "The campaign makes an intimate, warm interior monumental through scale. Small white ChatGPT lettering sits quietly in the photograph; its restraint makes the scene and human gesture carry the message. The city context is part of this reference, showing how an everyday moment reads at architectural scale.",
+    "provenance": "Advertiser-submitted ChatGPT Billboard Campaign entry in the official OAAA creative library, with OpenAI named as advertiser and extensive OpenAI creative credits. Entry year 2026 is an award year, not asserted as a campaign publication date.",
+    "tags": [
+      "brand identity",
+      "official campaign",
+      "photography",
+      "advertising"
+    ]
+  },
+  {
+    "id": "openai-gpt6-astra-launch-film",
+    "imageUrl": "https://i.ytimg.com/vi/1QNsdr-Qx_I/maxresdefault.jpg",
+    "sourceUrl": "https://www.youtube.com/watch?v=1QNsdr-Qx_I",
+    "localPath": "dist/assets/originals/7b285a947ecfbce7.jpg",
+    "width": 1280,
+    "height": 720,
+    "title": "GPT-6 Astra — launch film",
+    "date": "2026-09-03",
+    "type": "Photo + graphic",
+    "alt": "A dark studio set with a brightly illuminated interior and the large pale-yellow title Introducing GPT-6 Astra.",
+    "note": "Official OpenAI launch-film creative pairs a dim, cinematic studio with a brightly illuminated interior. Oversized pale-yellow ASTRA lettering crosses the set, making the product name part of the scene rather than a separate caption. A strong reference for product-led imagery with depth and theatrical light.",
+    "company": "openai",
+    "dateEvidenceUrl": "https://www.youtube.com/watch?v=1QNsdr-Qx_I",
+    "tags": [
+      "brand identity",
+      "official campaign",
+      "launch artwork"
+    ]
+  },
+  {
+    "id": "openai-o03",
+    "company": "openai",
+    "title": "Dots — tactile character campaign",
+    "date": "2026-09-29",
+    "sourceUrl": "https://openai.com/index/introducing-dots/",
+    "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/2TCcE1IdEPpWT2vaC3PDWu/e78bceb30c38422b1461a2326838e762/Art_Card___1_1_1080x1080.png",
+    "type": "3D / material",
+    "note": "Plush-like character surfaces and saturated colors sit beneath a softly glowing wordmark; black negative space gives the small cast a clear stage.",
+    "alt": "Colorful plush-like characters below a glowing multicolor dots wordmark on black.",
+    "localPath": "assets/originals/97c8fc001d1c9904.png"
+  },
+  {
+    "id": "openai-brand-photographic-system",
+    "company": "openai",
+    "title": "OpenAI identity — photographic application system",
+    "date": null,
+    "sourceUrl": "https://studiodumbar.com/work/openai-brand-film",
+    "imageUrl": null,
+    "localPath": "dist/assets/originals/c7120b3e49df949b.jpg",
+    "sourceMediaUrl": "https://studiodumbar.com/media/pages/work/openai-brand-film/b1a192f21f-1758830424/header.mp4",
+    "type": "Photo + graphic",
+    "alt": "An OpenAI brand-film composition layers wordmark-bearing photographic posters, yellow research layouts, a circular type specimen, and a colorful blue-orange image on a white background.",
+    "note": "A complete frame from the commissioned identity film shows how photographic posters, scientific publishing, saturated color, and geometric typography work together. Large wordmarks connect the natural imagery to the company; grids and generous white space give the varied applications a shared structure.",
+    "provenance": "Uncropped 1920 × 1080 frame at approximately 10.53 seconds from the public header film on Studio Dumbar’s OpenAI brand-film case study. The case study credits OpenAI Design Studio for the identity and Studio Dumbar for motion and sound.",
+    "tags": [
+      "brand identity",
+      "official brand application",
+      "film still",
+      "design system"
+    ]
+  },
+  {
+    "id": "openai-with-chatgpt-window",
+    "imageUrl": "https://oaaa.org/wp-content/uploads/2026/10/OpenAI-Super-Bowl-2026-03-scaled.jpg",
+    "sourceUrl": "https://oaaa.org/creative-library/chatgpt-billboard-campaign/",
+    "localPath": "dist/assets/originals/14f2f8a7df6daf9c.jpg",
+    "company": "openai",
+    "title": "With ChatGPT — window installation",
+    "date": null,
+    "type": "Photo + graphic",
+    "alt": "A tall airport advertising display shows people in the window of a pale blue Victorian building, photographed within a bright terminal.",
+    "note": "A building facade becomes a portrait-format stage for a small human scene. The vertical panel, stacked architectural detail, and daylight palette give this execution a different rhythm from the warm horizontal billboards. The installation shows how the same photographic campaign adapts to a tall public surface.",
+    "provenance": "Advertiser-submitted ChatGPT Billboard Campaign entry in the official OAAA creative library, with OpenAI named as advertiser and extensive OpenAI creative credits. Entry year 2026 is an award year, not asserted as a campaign publication date.",
+    "tags": [
+      "brand identity",
+      "official campaign",
+      "photography",
+      "advertising"
+    ]
+  },
+  {
+    "imageUrl": "https://cms.brandnewschool.com/assets/work/chatgpt/havarti_16x9_emeric_17.png",
+    "sourceUrl": "https://www.brandnewschool.com/work/chatgpt-student-campaign",
+    "id": "openai-student-poster-wall",
+    "localPath": "dist/assets/originals/1c574ca74a1747bd.png",
+    "company": "openai",
+    "title": "ChatGPT student campaign — poster wall",
+    "date": null,
+    "type": "Photo + graphic",
+    "alt": "A wall of white, yellow, and blue ChatGPT posters combines hand-drawn illustrations with simple prompt text and the ChatGPT wordmark.",
+    "note": "Brand New School’s commissioned campaign pairs hand-drawn everyday objects with minimalist prompt typography. Alternating white and pastel panels create a calm visual rhythm across a complete public installation; the repeated wordmark and consistent drawing language carry the campaign.",
+    "provenance": "Original public campaign image from commissioned studio Brand New School, whose case study explicitly credits client OpenAI.",
+    "tags": [
+      "brand identity",
+      "official campaign",
+      "photography",
+      "advertising"
+    ]
+  },
+  {
+    "imageUrl": "https://cms.brandnewschool.com/assets/work/chatgpt/havarti_1x1_emeric_11.png",
+    "sourceUrl": "https://www.brandnewschool.com/work/chatgpt-student-campaign",
+    "id": "openai-student-pasta-billboard",
+    "localPath": "dist/assets/originals/69495fd7736d9ced.png",
+    "company": "openai",
+    "title": "ChatGPT student campaign — pasta recipe",
+    "date": null,
+    "type": "Photo + graphic",
+    "alt": "A ChatGPT billboard on a brick wall shows a prompt requesting a simple pasta recipe, a hand-drawn fork, and the ChatGPT wordmark.",
+    "note": "A single useful request provides the concept and the composition. Large white space and an oversized doodle make the message legible in the street; warm brick and the soft paper-like background keep this product-led advertising approachable.",
+    "provenance": "Original public campaign image from commissioned studio Brand New School, whose case study explicitly credits client OpenAI.",
+    "tags": [
+      "brand identity",
+      "official campaign",
+      "photography",
+      "advertising"
+    ]
+  },
+  {
+    "id": "grok-launch-4-6",
+    "company": "grok",
+    "title": "Grok 4.6 — orbital blacklight",
+    "date": "2026-08-12",
+    "sourceUrl": "https://x.ai/news/grok-4-6",
+    "imageUrl": "https://x.ai/images/news/grok-4-6-og.png",
+    "type": "Cinematic",
+    "alt": "The white Grok 4.6 wordmark sits over a dark circular form with a softly glowing white rim on a smoky blue-gray field.",
+    "note": "Official Grok 4.6 launch artwork. A softly illuminated orbital rim gives depth to the blue-black field; the centered white model name stays quiet against the optical drama. Light, blur, and negative space provide the identity.",
+    "localPath": "dist/assets/originals/17b95ce96497e17b.jpg",
+    "width": 1024,
+    "height": 537,
+    "provenance": "Official announcement og:image, verified in page HTML; publication date verified from official page.",
+    "tags": [
+      "brand identity",
+      "official campaign",
+      "launch artwork"
+    ]
+  },
+  {
+    "id": "grok-real-world",
+    "imageUrl": "https://pbs.twimg.com/media/HJOy6zeWsAAyqTB.jpg",
+    "sourceUrl": "https://x.com/grok/status/2059188700656062874",
+    "localPath": "dist/assets/originals/ecd80965783ce847.jpg",
+    "company": "grok",
+    "title": "Grok — for decisions that matter",
+    "date": null,
+    "type": "Photo + graphic",
+    "alt": "A bright orange network of connected lights rises above the blue curve of Earth beneath the headline For decisions that matter, with a white Grok wordmark and The real world in real time tagline.",
+    "note": "The illuminated planetary edge turns real-time information into a cinematic spatial metaphor. Fine orange connections climb into a dark sky, balancing the cool atmosphere below. A large, plain headline and the Grok wordmark give the image a clear campaign structure.",
+    "provenance": "Campaign artwork indexed under the official @grok post URL by web image search; the original image was downloaded from X’s public media CDN. The post itself could not be read directly during curation, so its date is left unverified.",
+    "tags": [
+      "brand identity",
+      "official campaign"
+    ]
+  },
+  {
+    "id": "grok-x04",
+    "company": "grok",
+    "title": "Imagine showcase — spaceflight photo book",
+    "date": "2026-08-07",
+    "sourceUrl": "https://x.ai/news/grok-imagine-image-2",
+    "imageUrl": "https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/hero-44-63d3b611.jpg",
+    "type": "Photo + graphic",
+    "note": "Official model showcase, not corporate identity: an orbital photograph faces a restrained text page in a photographed open book, combining editorial hierarchy with physical paper.",
+    "alt": "Spaceflight photo book",
+    "localPath": "assets/originals/96b83cde04882dde.jpg"
+  },
+  {
+    "id": "grok-voice-3",
+    "imageUrl": "https://media.x.ai/v1/website/og-grok-voice-3-0-b281361b.webp",
+    "sourceUrl": "https://x.ai/news/grok-voice-3",
+    "localPath": "dist/assets/originals/7b7382674accd35d.webp",
+    "company": "grok",
+    "title": "Grok Voice 3.0 — violet optical wave",
+    "date": "2026-10-14",
+    "type": "Cinematic",
+    "alt": "White Grok Voice 3.0 lettering sits across a dark, softly textured wave with violet light on the left and magenta light at the upper right.",
+    "note": "A sinuous dark channel divides saturated violet and magenta light. Soft focus and fine texture make the abstract surface feel optical and physical, while centered white product typography links it to Grok’s restrained launch identity.",
+    "provenance": "Official announcement artwork, verified as og:image in the x.ai page HTML; the publication date is confirmed by the page’s time element and structured article metadata.",
+    "tags": [
+      "brand identity",
+      "launch artwork"
+    ]
+  },
+  {
+    "id": "grok-imagine-image-2",
+    "imageUrl": "https://media.x.ai/v1/website/imagine_image_2-b3560597.jpg",
+    "sourceUrl": "https://x.ai/news/grok-imagine-image-2",
+    "localPath": "dist/assets/originals/f1bd05672d61a738.jpg",
+    "company": "grok",
+    "title": "Imagine Image 2.0 — ember rim",
+    "date": "2026-08-07",
+    "type": "Cinematic",
+    "alt": "White Imagine Image 2.0 typography overlays a muted red-violet field edged by a softly glowing orange orbital arc.",
+    "note": "A warm orange rim curves around a deep red-violet center, using blur and tonal falloff to suggest depth without a busy scene. The single white product name carries the identity. This is the official launch treatment, distinct from the generated examples shown elsewhere on the announcement page.",
+    "provenance": "Official announcement artwork, verified as og:image in the x.ai page HTML; the publication date is confirmed by the page’s time element and structured article metadata.",
+    "tags": [
+      "brand identity",
+      "launch artwork"
+    ]
+  },
+  {
+    "id": "grok-launch-3",
+    "company": "grok",
+    "title": "Grok 3 — incandescent horizon",
+    "date": "2025-02-19",
+    "sourceUrl": "https://x.ai/news/grok-3",
+    "imageUrl": "https://media.x.ai/v1/website/grok-3-327b0918.webp",
+    "type": "Cinematic",
+    "alt": "A luminous red-orange band sweeps around a near-black center, with a violet-white glow at the upper left.",
+    "note": "Official Grok 3 launch artwork. An incandescent red-orange arc wraps a deep black field; fine grain and a small violet highlight make a minimal composition feel energetic and physical.",
+    "localPath": "dist/assets/originals/928a9995b9d60f74.webp",
+    "width": 1486,
+    "height": 836,
+    "provenance": "Official announcement og:image, verified in page HTML; publication date verified from official page.",
+    "tags": [
+      "brand identity",
+      "official campaign",
+      "launch artwork"
+    ]
+  },
+  {
+    "id": "grok-launch-4",
+    "company": "grok",
+    "title": "Grok 4 — cosmic flow",
+    "date": "2025-07-09",
+    "sourceUrl": "https://x.ai/news/grok-4",
+    "imageUrl": "https://media.x.ai/v1/website/grok-4-6bdb0520.webp",
+    "type": "Cinematic",
+    "alt": "White, blue, and orange streams of light curl across a dark star-filled field.",
+    "note": "Official Grok 4 launch artwork. Layered light streams and fine particles concentrate movement on the right while leaving a dark field on the left. Cool blue-white detail is punctuated by a concentrated orange core.",
+    "localPath": "dist/assets/originals/9f9d9e6bb131e551.webp",
+    "width": 1486,
+    "height": 836,
+    "provenance": "Official announcement og:image, verified in page HTML; publication date verified from official page.",
+    "tags": [
+      "brand identity",
+      "official campaign",
+      "launch artwork"
+    ]
+  }
+]

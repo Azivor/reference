@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "id": "ai-companies",
+      "title": "AI companies",
+      "collections": [
+        "anthropic",
+        "perplexity",
+        "openai",
+        "grok"
+      ]
+    }
+  ],
+  "collections": {
+    "anthropic": {
+      "name": "Anthropic"
+    },
+    "perplexity": {
+      "name": "Perplexity"
+    },
+    "openai": {
+      "name": "OpenAI"
+    },
+    "grok": {
+      "name": "Grok / xAI"
+    }
+  }
+}

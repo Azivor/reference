@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Reference</title><meta name="description" content="An image-first reference gallery.">
+  <meta name="robots" content="noindex,nofollow,noarchive"><meta name="theme-color" content="#fafaf9">
+  <script>document.documentElement.dataset.theme=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.dataset.appearance='system';</script>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css?v=8126a7998d66"><script type="module" src="app.js?v=8126a7998d66"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to images</a>
+  <header class="header">
+    <a href="#all" class="brand" aria-label="Reference home">reference<span>.</span></a>
+    <nav id="breadcrumbs" class="breadcrumbs" aria-label="Breadcrumb"></nav>
+    <div class="header-actions">
+      <button id="browse-button" class="control control-quiet" aria-label="Filter" aria-expanded="false" aria-controls="browse-menu"><span class="browse-symbol" data-icon="funnel"></span><span class="browse-label">Filter</span><span class="small-icon" data-icon="chevronDown"></span></button>
+      <a href="#saved" class="control control-quiet saved-nav" aria-label="Saved images"><span data-icon="bookmark"></span><span class="saved-label">Saved</span><small id="saved-count">0</small></a>
+      <span class="toolbar-divider" aria-hidden="true"></span>
+      <button id="search-button" class="control icon-button" aria-label="Search references" title="Search (⌘K)"><span data-icon="search"></span></button>
+      <button id="appearance-button" class="control icon-button" aria-label="Toggle light or dark mode" title="Toggle light or dark mode"><span id="appearance-icon" data-icon="appearance"></span></button>
+    </div>
+  </header>
+  <div id="browse-menu" class="popover browse-menu" hidden><p class="menu-label">Collections</p><nav id="browse-navigation" aria-label="Browse collections"></nav></div>
+  <main id="main" tabindex="-1" aria-labelledby="page-title">
+    <div class="page-heading"><div class="page-title-group"><button id="back-button" class="control icon-button back-button" aria-label="Back to categories" hidden><span data-icon="arrowLeft"></span></button><h1 id="page-title">AI companies</h1><span id="page-count" class="page-count"></span></div><div class="page-actions"><button id="treatment-button" class="control control-soft" aria-expanded="false" aria-controls="treatment-menu"><span class="filter-icon" data-icon="filter"></span><span id="treatment-label">All images</span><span class="small-icon" data-icon="chevronDown"></span></button></div></div>
+    <div id="treatment-menu" class="popover treatment-menu" hidden><p class="menu-label">Image treatment</p><div id="treatment-options" role="group" aria-label="Image treatment"></div></div>
+    <div id="gallery" class="gallery"></div>
+    <div id="empty-state" class="empty-state" hidden><h2 id="empty-title">Keep what catches your eye.</h2><p id="empty-copy">Save an image to find it here.</p><a href="#all" class="control control-soft">Explore the gallery <span data-icon="arrowRight"></span></a></div>
+  </main>
+  <footer class="footer"><span>Reference · A visual collection</span><button id="about-button" class="footer-link">About this collection</button></footer>
+  <dialog id="viewer" class="viewer" aria-labelledby="viewer-title" aria-describedby="viewer-instructions">
+    <p id="viewer-instructions" class="sr-only">Swipe left or right on the image, or use the arrow keys, to browse.</p><div class="viewer-header"><div class="viewer-context"><span id="viewer-company"></span><span class="context-divider" data-icon="chevronRight"></span><span id="viewer-position" aria-live="polite" aria-atomic="true"></span></div><div class="viewer-actions"><button id="viewer-save" class="control control-soft" aria-label="Save image"></button><a id="viewer-source" class="control control-quiet source-button" target="_blank" rel="noopener noreferrer" aria-label="Visit original source"><span class="source-label">Source</span><span data-icon="arrowUpRight"></span></a><span class="toolbar-divider" aria-hidden="true"></span><button id="close-viewer" class="control icon-button" aria-label="Close image"><span data-icon="close"></span></button></div></div>
+    <div class="viewer-stage"><button id="previous-image" class="control stage-arrow" aria-label="Previous image"><span data-icon="chevronLeft"></span></button><div class="viewer-art"><img id="viewer-previous" class="viewer-neighbor" alt="" aria-hidden="true" draggable="false" hidden><img id="viewer-image" alt="" draggable="false"><img id="viewer-next" class="viewer-neighbor" alt="" aria-hidden="true" draggable="false" hidden><span id="image-loading" hidden>Loading image…</span></div><button id="next-image" class="control stage-arrow" aria-label="Next image"><span data-icon="chevronRight"></span></button></div>
+    <div class="viewer-caption"><div><h2 id="viewer-title"></h2><p id="viewer-subtitle"></p></div></div>
+    <div id="image-details" class="image-details"><p id="viewer-note"></p><div><span id="viewer-dimensions"></span><a id="viewer-original" class="control control-quiet" target="_blank" rel="noopener noreferrer"><span>Original image</span><span data-icon="arrowUpRight"></span></a></div></div>
+  </dialog>
+  <dialog id="search-dialog" class="search-dialog" aria-labelledby="search-label"><div class="search-top"><span data-icon="search"></span><label id="search-label" class="sr-only" for="search-input">Search the collection</label><input id="search-input" type="search" placeholder="Search images, ideas, or companies…" autocomplete="off"><button id="close-search" class="control icon-button" aria-label="Close search"><span data-icon="close"></span></button></div><div class="search-meta"><span id="search-result-count">All references</span><span class="search-key-hint">Esc to close</span></div><div id="search-results" class="search-results"></div></dialog>
+  <dialog id="about-dialog" class="about-dialog" aria-labelledby="about-title"><button id="close-about" class="control icon-button" aria-label="Close about"><span data-icon="close"></span></button><h2 id="about-title">A place for good references.</h2><p>Explore categories vertically and images horizontally. Open a collection to see everything, or select an image to look closer.</p><p>The first collection studies Anthropic, OpenAI, Grok, and Perplexity, with an extended Anthropic selection. Each image includes a credited source and an independent design observation.</p><p>Saved images stay on this browser and device. They don’t sync across devices. Appearance starts with your device’s color scheme each visit; use the sun or moon button to switch.</p><small>A collection for visual study. Images belong to their original creators. This site is not affiliated with the featured companies.</small></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
