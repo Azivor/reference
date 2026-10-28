@@ -1,6 +1,19 @@
 <!doctype html>
 <html lang="en">
 <head>
+  <!-- Google Analytics: shared Azivor property; production hostname only. -->
+  <script>
+if (location.hostname === 'azivor.github.io') {
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-7E6HW5VEPF');
+  const tag = document.createElement('script');
+  tag.async = true;
+  tag.src = 'https://www.googletagmanager.com/gtag/js?id=G-7E6HW5VEPF';
+  document.head.appendChild(tag);
+}
+</script>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Reference</title><meta name="description" content="An image-first reference gallery.">
   <meta name="robots" content="noindex,nofollow,noarchive"><meta name="theme-color" content="#fafaf9">
