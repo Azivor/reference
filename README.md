@@ -30,7 +30,7 @@ References prioritize recognizable company art direction: official advertising, 
 
 Serve `dist/` with a static HTTP server. No dependency installation or build is needed. Run `python3 scripts/import-images.py` after editing source records; retained originals are reused. The importer also refreshes content-based entry-point revisions so published reference updates do not reuse an older browser-cached collection.
 
-This site is public; its noindex metadata is a search-engine request, not access control. The site uses no analytics, external scripts, or third-party image loading. Reference images and their original sources remain credited to their respective creators. Design notes are independent visual observations, not statements of internal brand strategy. Dates appear only when verified.
+This site is public; its noindex metadata is a search-engine request, not access control. The public GitHub Pages site uses Google Analytics through the shared Azivor property (`G-7E6HW5VEPF`). Tracking activates only on `azivor.github.io`; local previews and the owner-private Sites deployment do not send traffic. Reports distinguish gallery visits by the `/reference/` page path. Images remain locally hosted, with no third-party image loading. Reference images and their original sources remain credited to their respective creators. Design notes are independent visual observations, not statements of internal brand strategy. Dates appear only when verified.
 
 
 ## GitHub Pages publication
