@@ -18,7 +18,7 @@ if (location.hostname === 'azivor.github.io') {
   <title>Reference</title><meta name="description" content="An image-first reference gallery.">
   <meta name="robots" content="noindex,nofollow,noarchive"><meta name="theme-color" content="#fafaf9">
   <script>document.documentElement.dataset.theme=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.dataset.appearance='system';</script>
-  <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css?v=06a185ea3085"><script type="module" src="app.js?v=06a185ea3085"></script>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css?v=065c914f5a0c"><script type="module" src="app.js?v=065c914f5a0c"></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to images</a>
@@ -52,15 +52,15 @@ if (location.hostname === 'azivor.github.io') {
     <button id="close-plugin-announcement" class="control icon-button" aria-label="Close ChatGPT announcement" autofocus><span data-icon="close"></span></button>
     <figure class="plugin-preview"><img src="assets/plugin/chatgpt-preview.png" width="588" height="1017" alt="Actual Azivor Reference results displayed as images and design notes inside ChatGPT."></figure>
     <h2 id="plugin-announcement-title">ChatGPT Reference Plugin <span>Now Available</span></h2>
-    <p id="plugin-announcement-description" class="sr-only">Add Azivor Reference to ChatGPT using the manual setup guide.</p>
+    <p id="plugin-announcement-description" class="plugin-benefit">Describe the look you want. Get matching images and design notes directly in ChatGPT.</p>
     <a id="announcement-setup" class="control plugin-setup" href="#chatgpt" data-open-plugin-setup>Set up in ChatGPT <span data-icon="arrowRight"></span></a>
   </dialog>
   <dialog id="plugin-setup-dialog" class="plugin-setup-dialog" aria-labelledby="plugin-setup-title" aria-describedby="plugin-setup-eligibility">
     <div class="setup-glass">
-      <header class="setup-header"><div><span class="setup-brand">reference.</span><h2 id="plugin-setup-title">Add Reference to ChatGPT</h2></div><button id="close-plugin-setup" class="control icon-button" aria-label="Close setup" autofocus><span data-icon="close"></span></button></header>
+      <header class="setup-header"><div><span class="setup-brand">reference.</span><h2 id="plugin-setup-title">Add Reference to ChatGPT</h2><p class="setup-benefit">Describe the look you want. Get matching images and design notes directly in ChatGPT.</p></div><button id="close-plugin-setup" class="control icon-button" aria-label="Close setup" autofocus><span data-icon="close"></span></button></header>
       <ol class="setup-steps">
         <li><h3>Open ChatGPT plugins</h3><p>Choose <strong>Add</strong> → <strong>Add custom MCP server</strong>.</p><a class="control control-soft" href="https://chatgpt.com/plugins" target="_blank" rel="noopener noreferrer">Open ChatGPT plugins <span data-icon="arrowUpRight"></span></a></li>
-        <li><h3>Enter the connection</h3><div class="setup-fields"><div><span class="setup-label">Name</span><div class="setup-value-row"><span id="setup-name" class="setup-value">Azivor Reference</span><button class="setup-copy" type="button" data-setup-copy="setup-name" aria-label="Copy plugin name">Copy</button></div></div><div><span class="setup-label">Server URL</span><div class="setup-value-row"><span id="setup-url" class="setup-value">https://azivor-reference.vercel.app/mcp</span><button class="setup-copy" type="button" data-setup-copy="setup-url" aria-label="Copy server URL">Copy</button></div></div><p class="setup-auth">Authentication <strong>No authentication</strong></p></div><p>Review and confirm the warning, then choose <strong>Create as a plugin</strong>.</p></li>
+        <li><h3>Enter the connection</h3><div class="setup-fields"><div><span class="setup-label">Name</span><div class="setup-value-row"><span id="setup-name" class="setup-value">Azivor Reference</span><button class="setup-copy" type="button" data-setup-copy="setup-name" aria-label="Copy plugin name">Copy</button></div></div><div><span class="setup-label">Server URL</span><div class="setup-value-row"><span id="setup-url" class="setup-value">https://azivor-reference.vercel.app/mcp</span><button class="setup-copy" type="button" data-setup-copy="setup-url" aria-label="Copy server URL">Copy</button></div></div><p class="setup-auth">Authentication <strong>No authentication</strong></p><div class="setup-icon-row"><img src="assets/plugin/reference-icon.png" width="56" height="56" alt="Reference plugin icon"><div><span class="setup-label">Plugin image · optional</span><a class="setup-icon-download" href="assets/plugin/reference-icon.png" download="reference-plugin.png">Download PNG</a></div></div></div><p>Review and confirm the warning, then choose <strong>Create as a plugin</strong>.</p></li>
         <li><h3>Install and start a chat</h3><p>Install the plugin. In a new <strong>Work</strong> chat, type <strong>@</strong> and select <strong>Azivor Reference</strong>.</p><div class="setup-value-row setup-prompt"><span id="setup-prompt" class="setup-value">Show me three Perplexity references.</span><button class="setup-copy" type="button" data-setup-copy="setup-prompt" aria-label="Copy example prompt">Copy</button></div></li>
       </ol>
       <p id="setup-copy-status" class="setup-status" role="status" aria-live="polite"></p>
