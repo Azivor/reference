@@ -18,7 +18,7 @@ if (location.hostname === 'azivor.github.io') {
   <title>Reference</title><meta name="description" content="An image-first reference gallery.">
   <meta name="robots" content="noindex,nofollow,noarchive"><meta name="theme-color" content="#fafaf9">
   <script>document.documentElement.dataset.theme=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.dataset.appearance='system';</script>
-  <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css?v=c7746a44c26b"><script type="module" src="app.js?v=c7746a44c26b"></script>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css?v=06a185ea3085"><script type="module" src="app.js?v=06a185ea3085"></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to images</a>
@@ -42,18 +42,30 @@ if (location.hostname === 'azivor.github.io') {
   </main>
   <footer class="footer">
     <div class="footer-top">
-      <section class="footer-about" aria-label="About Reference"><a href="#all" class="brand" aria-label="Reference home">reference<span>.</span></a><p>A curated collection of brand artwork, campaign imagery, and visual design references, selected by Azivor.</p><p>Explore art direction through photography, illustration, typography, colour, and composition. Every reference includes a credited source and an independent design observation.</p></section>
-      <nav class="footer-nav" aria-label="Reference links"><h2>Explore the collection</h2><a class="footer-link" href="#all">All references</a><a class="footer-link" href="#saved">Saved images</a><button id="about-button" class="footer-link">About this collection</button><a class="footer-link" href="mailto:azivorai@gmail.com">Contact Azivor</a><p class="footer-note">Saved images stay in this browser and on this device.</p></nav>
-      <section class="footer-chatgpt" aria-labelledby="footer-chatgpt-title"><h2 id="footer-chatgpt-title">Find references in ChatGPT</h2><p>Describe a visual idea and search this collection from your chat. Get matching images, design notes, and original-source links.</p><a class="control plugin-setup" href="chatgpt/" target="_blank" rel="noopener noreferrer">Set up in ChatGPT <span data-icon="arrowUpRight"></span></a><p class="footer-note">Manual setup. Your ChatGPT account must support custom connections.</p></section>
+      <section class="footer-about" aria-label="About Reference"><a href="#all" class="brand" aria-label="Reference home">reference<span>.</span></a><p>Visual references, curated by Azivor.<br>Original sources. Independent design notes.</p></section>
+      <nav class="footer-nav" aria-label="Reference links"><h2>Explore</h2><a class="footer-link" href="#all">All references</a><a class="footer-link" href="#saved">Saved images</a><button id="about-button" class="footer-link">About</button><a class="footer-link" href="mailto:azivorai@gmail.com">Contact</a></nav>
+      <section class="footer-chatgpt" aria-labelledby="footer-chatgpt-title"><h2 id="footer-chatgpt-title">Reference in ChatGPT</h2><p>Find inspiration from your conversation.</p><a class="control plugin-setup" href="#chatgpt" data-open-plugin-setup>Set up in ChatGPT <span data-icon="arrowRight"></span></a></section>
     </div>
-    <div class="footer-bottom"><span>Curated by Azivor for visual study.</span><p>Artwork belongs to its credited creators. The collection is independent and is not affiliated with the featured companies. Source attribution does not grant permission to reuse an image.</p></div>
+    <div class="footer-bottom"><span>Curated by Azivor.</span><p>Images belong to their credited creators. No reuse licence is granted.</p></div>
   </footer>
   <dialog id="plugin-announcement" class="about-dialog plugin-announcement" aria-labelledby="plugin-announcement-title" aria-describedby="plugin-announcement-description">
     <button id="close-plugin-announcement" class="control icon-button" aria-label="Close ChatGPT announcement" autofocus><span data-icon="close"></span></button>
-    <h2 id="plugin-announcement-title">Reference, now in ChatGPT.</h2>
-    <p id="plugin-announcement-description">Search this collection from your conversation. Describe the style, colour, or composition you need and get reference images, design notes, and original sources.</p>
-    <div class="announcement-actions"><a id="announcement-setup" class="control plugin-setup" href="chatgpt/" target="_blank" rel="noopener noreferrer">Set up in ChatGPT <span data-icon="arrowUpRight"></span></a><button id="dismiss-plugin-announcement" class="control control-soft">Browse references</button></div>
-    <p class="announcement-note">Follow the manual setup guide. Your ChatGPT account must support custom connections.</p>
+    <figure class="plugin-preview"><img src="assets/plugin/chatgpt-preview.png" width="588" height="1017" alt="Actual Azivor Reference results displayed as images and design notes inside ChatGPT."></figure>
+    <h2 id="plugin-announcement-title">ChatGPT Reference Plugin <span>Now Available</span></h2>
+    <p id="plugin-announcement-description" class="sr-only">Add Azivor Reference to ChatGPT using the manual setup guide.</p>
+    <a id="announcement-setup" class="control plugin-setup" href="#chatgpt" data-open-plugin-setup>Set up in ChatGPT <span data-icon="arrowRight"></span></a>
+  </dialog>
+  <dialog id="plugin-setup-dialog" class="plugin-setup-dialog" aria-labelledby="plugin-setup-title" aria-describedby="plugin-setup-eligibility">
+    <div class="setup-glass">
+      <header class="setup-header"><div><span class="setup-brand">reference.</span><h2 id="plugin-setup-title">Add Reference to ChatGPT</h2></div><button id="close-plugin-setup" class="control icon-button" aria-label="Close setup" autofocus><span data-icon="close"></span></button></header>
+      <ol class="setup-steps">
+        <li><h3>Open ChatGPT plugins</h3><p>Choose <strong>Add</strong> → <strong>Add custom MCP server</strong>.</p><a class="control control-soft" href="https://chatgpt.com/plugins" target="_blank" rel="noopener noreferrer">Open ChatGPT plugins <span data-icon="arrowUpRight"></span></a></li>
+        <li><h3>Enter the connection</h3><div class="setup-fields"><div><span class="setup-label">Name</span><div class="setup-value-row"><span id="setup-name" class="setup-value">Azivor Reference</span><button class="setup-copy" type="button" data-setup-copy="setup-name" aria-label="Copy plugin name">Copy</button></div></div><div><span class="setup-label">Server URL</span><div class="setup-value-row"><span id="setup-url" class="setup-value">https://azivor-reference.vercel.app/mcp</span><button class="setup-copy" type="button" data-setup-copy="setup-url" aria-label="Copy server URL">Copy</button></div></div><p class="setup-auth">Authentication <strong>No authentication</strong></p></div><p>Review and confirm the warning, then choose <strong>Create as a plugin</strong>.</p></li>
+        <li><h3>Install and start a chat</h3><p>Install the plugin. In a new <strong>Work</strong> chat, type <strong>@</strong> and select <strong>Azivor Reference</strong>.</p><div class="setup-value-row setup-prompt"><span id="setup-prompt" class="setup-value">Show me three Perplexity references.</span><button class="setup-copy" type="button" data-setup-copy="setup-prompt" aria-label="Copy example prompt">Copy</button></div></li>
+      </ol>
+      <p id="setup-copy-status" class="setup-status" role="status" aria-live="polite"></p>
+      <footer class="setup-foot"><p id="plugin-setup-eligibility">Your ChatGPT account must support custom connections.</p><a href="mailto:azivorai@gmail.com">Need help?</a></footer>
+    </div>
   </dialog>
   <dialog id="viewer" class="viewer" aria-labelledby="viewer-title" aria-describedby="viewer-instructions">
     <p id="viewer-instructions" class="sr-only">Swipe left or right on the image, or use the arrow keys, to browse.</p><div class="viewer-header"><div class="viewer-context"><span id="viewer-company"></span><span class="context-divider" data-icon="chevronRight"></span><span id="viewer-position" aria-live="polite" aria-atomic="true"></span></div><div class="viewer-actions"><button id="viewer-save" class="control control-soft" aria-label="Save image"></button><a id="viewer-source" class="control control-quiet source-button" target="_blank" rel="noopener noreferrer" aria-label="Visit original source"><span class="source-label">Source</span><span data-icon="arrowUpRight"></span></a><span class="toolbar-divider" aria-hidden="true"></span><button id="close-viewer" class="control icon-button" aria-label="Close image"><span data-icon="close"></span></button></div></div>
