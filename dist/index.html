@@ -18,7 +18,7 @@ if (location.hostname === 'azivor.github.io') {
   <title>Reference</title><meta name="description" content="An image-first reference gallery.">
   <meta name="robots" content="noindex,nofollow,noarchive"><meta name="theme-color" content="#fafaf9">
   <script>document.documentElement.dataset.theme=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.dataset.appearance='system';</script>
-  <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css?v=065c914f5a0c"><script type="module" src="app.js?v=065c914f5a0c"></script>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css?v=8f319e138a35"><script type="module" src="app.js?v=8f319e138a35"></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to images</a>
@@ -58,13 +58,32 @@ if (location.hostname === 'azivor.github.io') {
   <dialog id="plugin-setup-dialog" class="plugin-setup-dialog" aria-labelledby="plugin-setup-title" aria-describedby="plugin-setup-eligibility">
     <div class="setup-glass">
       <header class="setup-header"><div><span class="setup-brand">reference.</span><h2 id="plugin-setup-title">Add Reference to ChatGPT</h2><p class="setup-benefit">Describe the look you want. Get matching images and design notes directly in ChatGPT.</p></div><button id="close-plugin-setup" class="control icon-button" aria-label="Close setup" autofocus><span data-icon="close"></span></button></header>
+      <section class="setup-easy" aria-labelledby="setup-easy-title">
+        <h3 id="setup-easy-title">Easy setup with Codex</h3>
+        <p>Copy this into Codex in the ChatGPT desktop app to set up the full plugin for Chat and Work.</p>
+        <button class="control plugin-setup setup-copy-all" type="button" data-setup-copy="setup-codex-prompt" aria-label="Copy Codex setup prompt">Copy setup prompt <span data-icon="arrowRight"></span></button>
+        <p class="setup-consent-note">Setup permission is included. You may still need to confirm installation or account access.</p>
+        <details class="setup-prompt-details"><summary>View the prompt</summary><pre id="setup-codex-prompt"><!-- CODEX_SETUP_PROMPT_START -->Set up the full Azivor Reference plugin in my signed-in ChatGPT account, for use in Chat, Work, and Codex where supported. Use Plugin Creator in Codex in the ChatGPT desktop app. This is an instruction to carry out setup, not just explain it.
+
+I authorize you to download and inspect the plugin bundle, create or update my private Azivor Reference plugin, connect and install it in my account, and run a read-only reference search to verify it. Use the current account; do not publish or share my plugin. Reuse an existing matching installation rather than creating duplicates. These setup actions and access to Azivor’s public reference images are authorized without asking me to confirm each routine step. Keep permissions limited to this plugin; preserve global approval, security, and workspace settings. If the product requires a sign-in, consent, install click, or administrator approval, let me complete that required step and continue afterward.
+
+1. Download https://azivor.github.io/reference/plugin/azivor-reference.zip and verify SHA-256 120976e3126eb8a55c96e851ae81eca2da73bdd07e8467f9f46dbe5399fe6f15. Inspect the archive before using it. It contains plugin.json, mcp.json, the azivor-reference skill, and the Reference logo. No credentials or owner-specific app IDs are required.
+2. Follow the installed Plugin Creator skill to save this complete bundle as a private account plugin, then install/connect it using supported account flows. The public remote MCP server is https://azivor-reference.vercel.app/mcp using Streamable HTTP and no authentication. Preserve the bundled skill: it searches actual references, normally three, and displays the returned image content or inline image component with design notes and credited sources. Use the Reference logo from the bundle. Do not create a new website, deploy another server, request an OpenAI API key, or ask for a payment method.
+3. Keep both the skill and remote connection. Do not substitute a standalone local skill or a Codex-only MCP setting: that does not establish ChatGPT Chat support. If your host needs a registered app connection, create or reuse one in my account and use only its verified returned ID. Never copy another user’s private plugin/app identifiers.
+4. Verify that the saved plugin includes the skill and remote tools and that installation is complete. Use the actual discovered search tool with limit 3 to request Perplexity references; check that the returned images are displayed, not just URLs or a successful status. Preserve image blocks and UI metadata; if needed, embed exact returned preview URLs as Markdown images. Do not generate replacement artwork.
+5. Give me the private plugin link and a short instruction to start a new Chat or Work conversation, select @Azivor Reference, and ask for references. Distinguish a verified connection from verified Chat-mode image display. If Chat-mode testing needs a new conversation, ask me to start that conversation; do not claim it passed without observing it.
+
+If Plugin Creator or custom account connections are unavailable, say exactly what is missing and point me to https://azivor.github.io/reference/#chatgpt for manual setup. Do not claim a local-only fallback works in ChatGPT Chat.<!-- CODEX_SETUP_PROMPT_END --></pre></details>
+      </section>
+      <details class="setup-manual"><summary>Set up manually</summary>
       <ol class="setup-steps">
         <li><h3>Open ChatGPT plugins</h3><p>Choose <strong>Add</strong> → <strong>Add custom MCP server</strong>.</p><a class="control control-soft" href="https://chatgpt.com/plugins" target="_blank" rel="noopener noreferrer">Open ChatGPT plugins <span data-icon="arrowUpRight"></span></a></li>
         <li><h3>Enter the connection</h3><div class="setup-fields"><div><span class="setup-label">Name</span><div class="setup-value-row"><span id="setup-name" class="setup-value">Azivor Reference</span><button class="setup-copy" type="button" data-setup-copy="setup-name" aria-label="Copy plugin name">Copy</button></div></div><div><span class="setup-label">Server URL</span><div class="setup-value-row"><span id="setup-url" class="setup-value">https://azivor-reference.vercel.app/mcp</span><button class="setup-copy" type="button" data-setup-copy="setup-url" aria-label="Copy server URL">Copy</button></div></div><p class="setup-auth">Authentication <strong>No authentication</strong></p><div class="setup-icon-row"><img src="assets/plugin/reference-icon.png" width="56" height="56" alt="Reference plugin icon"><div><span class="setup-label">Plugin image · optional</span><a class="setup-icon-download" href="assets/plugin/reference-icon.png" download="reference-plugin.png">Download PNG</a></div></div></div><p>Review and confirm the warning, then choose <strong>Create as a plugin</strong>.</p></li>
         <li><h3>Install and start a chat</h3><p>Install the plugin. In a new <strong>Work</strong> chat, type <strong>@</strong> and select <strong>Azivor Reference</strong>.</p><div class="setup-value-row setup-prompt"><span id="setup-prompt" class="setup-value">Show me three Perplexity references.</span><button class="setup-copy" type="button" data-setup-copy="setup-prompt" aria-label="Copy example prompt">Copy</button></div></li>
       </ol>
+      </details>
       <p id="setup-copy-status" class="setup-status" role="status" aria-live="polite"></p>
-      <footer class="setup-foot"><p id="plugin-setup-eligibility">Your ChatGPT account must support custom connections.</p><a href="mailto:azivorai@gmail.com">Need help?</a></footer>
+      <footer class="setup-foot"><p id="plugin-setup-eligibility">Requires Plugin Creator for easy setup and an account that allows custom connections.</p><a href="mailto:azivorai@gmail.com">Need help?</a></footer>
     </div>
   </dialog>
   <dialog id="viewer" class="viewer" aria-labelledby="viewer-title" aria-describedby="viewer-instructions">

@@ -219,8 +219,8 @@ $('close-plugin-announcement').addEventListener('click',()=>closeDialog('plugin-
 $('close-plugin-setup').addEventListener('click',()=>closeDialog('plugin-setup-dialog'));
 document.querySelectorAll('[data-setup-copy]').forEach(button=>button.addEventListener('click',async()=>{
   const field=$(button.dataset.setupCopy),status=$('setup-copy-status');
-  try{await navigator.clipboard.writeText(field.textContent.trim());button.textContent='Copied';status.textContent=button.dataset.setupCopy==='setup-url'?'Server address copied.':button.dataset.setupCopy==='setup-name'?'Plugin name copied.':'Example prompt copied.';}
-  catch{const range=document.createRange();range.selectNodeContents(field);const selection=window.getSelection();selection.removeAllRanges();selection.addRange(range);status.textContent='Copy the selected text using your keyboard or touch menu.';}
+  try{await navigator.clipboard.writeText(field.textContent.trim());button.textContent='Copied';status.textContent=button.dataset.setupCopy==='setup-codex-prompt'?'Setup prompt copied. Paste it into Codex.':button.dataset.setupCopy==='setup-url'?'Server address copied.':button.dataset.setupCopy==='setup-name'?'Plugin name copied.':'Example prompt copied.';}
+  catch{const details=field.closest('details');if(details)details.open=true;const range=document.createRange();range.selectNodeContents(field);const selection=window.getSelection();selection.removeAllRanges();selection.addRange(range);status.textContent='Copy the selected text using your keyboard or touch menu.';}
 }));
 document.addEventListener('keydown',e=>{if($('viewer').open&&!dialogClosures.has('viewer')){if(['ArrowLeft','ArrowRight'].includes(e.key)){e.preventDefault();moveImage(e.key==='ArrowLeft'?-1:1);}return;}if(e.key==='Escape'){const active=Object.keys(menus).find(id=>!$(id).hidden);closeMenus();if(active)$(menus[active]).focus();return;}const typing=['INPUT','TEXTAREA'].includes(document.activeElement?.tagName);if((e.key==='/'&&!typing)||(e.key.toLowerCase()==='k'&&(e.metaKey||e.ctrlKey))){e.preventDefault();openSearch();}});
 window.addEventListener('hashchange',applyRoute);
