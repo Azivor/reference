@@ -100,3 +100,26 @@ dialog{border:0;color:var(--ink);background:var(--bg)}dialog::backdrop{backgroun
 
 
 .image-row.is-scrolling{scroll-snap-type:none!important;scroll-behavior:auto!important}
+
+/* The collection footer and per-visit ChatGPT announcement share the site's existing palette and controls. */
+.footer{display:block;border-top:1px solid var(--line);margin-top:18px;padding-top:42px;padding-bottom:26px}
+.footer-top{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(160px,.75fr) minmax(0,1fr);gap:clamp(28px,5vw,90px)}
+.footer .brand{display:inline-block;margin-bottom:12px;color:var(--ink)}
+.footer h2{margin:6px 0 16px;font-size:14px;line-height:1.4;font-weight:600;color:var(--ink)}
+.footer p{font-size:13px;line-height:1.75;margin:0 0 13px;max-width:58ch;text-wrap:pretty}
+.footer .footer-link{display:block;width:fit-content;min-height:32px;max-width:none;padding:5px 0;text-align:left;font-size:13px;line-height:22px}
+.footer a.footer-link:hover{text-decoration:underline;text-underline-offset:4px}
+.footer .footer-note{font-size:12px;line-height:1.65;margin-top:12px;color:var(--faint)}
+.footer-bottom{display:flex;justify-content:space-between;gap:26px;border-top:1px solid var(--line);margin-top:32px;padding-top:20px;font-size:12px;line-height:1.7}
+.footer-bottom>span{flex-shrink:0}.footer-bottom p{font-size:12px;line-height:1.7;max-width:78ch;margin:0}
+.control.plugin-setup{background:var(--ink);color:var(--bg);min-height:42px;height:auto;padding:11px 16px;border-radius:9px;font-size:13px;line-height:20px}
+.control.plugin-setup:hover{background:var(--ink);color:var(--bg);opacity:.86}
+.plugin-announcement{width:min(530px,calc(100vw - 28px));padding:40px;max-height:90dvh}
+.plugin-announcement h2{margin:14px 0 18px;font-size:29px;line-height:1.2;letter-spacing:-.035em;text-wrap:balance}
+.plugin-announcement>p{font-size:15px;line-height:1.75;margin:0 0 24px}
+.announcement-actions{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.announcement-actions .control{min-height:44px;height:auto;padding:11px 16px;line-height:22px}
+.plugin-announcement .announcement-note{font-size:12px;line-height:1.65;color:var(--faint);margin:19px 0 0}
+.plugin-announcement.is-closing{animation:dialog-out .15s ease-in both}
+@media(max-width:900px){.footer-top{grid-template-columns:1fr 1fr;gap:26px 40px}.footer-about{grid-column:1/-1}.footer-about p{max-width:72ch}.footer-bottom{display:block}.footer-bottom p{margin-top:8px}}
+@media(max-width:600px){.footer{padding-top:30px;padding-bottom:24px}.footer-top{grid-template-columns:1fr;gap:25px}.footer-about{grid-column:auto}.footer .footer-link{min-height:44px;padding-block:11px}.footer h2{margin-top:0;margin-bottom:12px}.footer .brand{font-size:23px}.footer-bottom{margin-top:25px}.plugin-announcement{padding:34px 24px 27px}.plugin-announcement h2{font-size:27px;margin-top:17px}.announcement-actions{display:grid;grid-template-columns:1fr;gap:9px}.announcement-actions .control{width:100%}.footer-chatgpt .plugin-setup{min-height:44px}}
