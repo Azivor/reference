@@ -225,6 +225,16 @@ document.querySelectorAll('[data-setup-copy]').forEach(button=>button.addEventLi
 document.addEventListener('keydown',e=>{if($('viewer').open&&!dialogClosures.has('viewer')){if(['ArrowLeft','ArrowRight'].includes(e.key)){e.preventDefault();moveImage(e.key==='ArrowLeft'?-1:1);}return;}if(e.key==='Escape'){const active=Object.keys(menus).find(id=>!$(id).hidden);closeMenus();if(active)$(menus[active]).focus();return;}const typing=['INPUT','TEXTAREA'].includes(document.activeElement?.tagName);if((e.key==='/'&&!typing)||(e.key.toLowerCase()==='k'&&(e.metaKey||e.ctrlKey))){e.preventDefault();openSearch();}});
 window.addEventListener('hashchange',applyRoute);
 hydrateIcons();setAppearance(appearance);
-// Open once on each page load; dismissal is deliberately not persisted between visits.
-if(location.hash!=='#chatgpt')showDialog('plugin-announcement');
+// Remember the announcement as soon as it is shown, across visits in this browser.
+if(location.hash!=='#chatgpt'){
+  const seenKey='reference-room-plugin-announcement-seen-v1';
+  let seen=false;
+  try{seen=localStorage.getItem(seenKey)==='true';}catch{}
+  if(!seen){
+    showDialog('plugin-announcement');
+    if($('plugin-announcement').open){
+      try{localStorage.setItem(seenKey,'true');}catch{}
+    }
+  }
+}
 try{const responses=await Promise.all([fetch(`library.json?v=${revision}`,{cache:'no-store'}),fetch(`collections.json?v=${revision}`,{cache:'no-store'})]);if(responses.some(r=>!r.ok))throw new Error('Collection unavailable');[items,config]=await Promise.all(responses.map(r=>r.json()));saved=new Set([...saved].filter(id=>items.some(r=>r.id===id)));renderBrowse();applyRoute();}catch(e){$('page-title').textContent='Couldn’t load the collection';$('page-count').textContent='Refresh to try again';console.error(e);}

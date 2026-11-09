@@ -42,3 +42,8 @@ This repository publishes `dist/` to https://azivor.github.io/reference/. The wo
 The importer retains untouched originals and produces 480 px / 960 px previews plus 1440 px / 2560 px viewer images. Cards and search use responsive preview sources; the viewer chooses a size for the display and warms the adjacent images after the current image finishes. Adjacent-image loading is skipped when the browser reports data saving or a 2G connection. The first three gallery images load eagerly. Generated image URLs include their encoding settings so a release does not reuse an older encoding from cache.
 
 For the 90-image collection on 2026-10-27, large preview bytes decreased from 11.76 MB to 5.37 MB (54%); the small-preview set totals 1.25 MB (89% below the previous preview set). Full-size viewer bytes decreased from 49.42 MB to 36.90 MB (25%). These are asset-size measurements, not measured page-load speedups. Original source files are preserved.
+
+
+## Plugin announcement
+
+The plugin announcement is marked as seen when it opens and is shown only once per browser, using local storage. Clearing site data or using another browser can show it again. If storage is unavailable, the gallery remains usable and the announcement may appear on a later visit. Plugin setup remains available through the footer and `#chatgpt`.
